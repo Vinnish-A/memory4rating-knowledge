@@ -1,5 +1,9 @@
+{"created_at":"2026-09-29T03:39:32.59006+00:00","event_kind":"scientific_research_software_release_report","id":"event_02df4a30059105fa9e4c80e0400183a2"}
+{"created_at":"2026-09-29T02:54:32.777146+00:00","event_kind":"model_development_and_evaluation_report","id":"event_1d3b0072b0ecbc810683a6552c383292"}
 {"created_at":"2026-09-28T19:47:58.519773+00:00","event_kind":"research_method_development_and_evaluation_report","id":"event_2b7f67d8ee90f4ff92512475528f2375"}
+{"created_at":"2026-09-29T02:30:58.836478+00:00","event_kind":"research_infrastructure_establishment","id":"event_323075ff2d11f2d769e277c742f69a91"}
 {"created_at":"2026-09-29T01:52:22.883845+00:00","event_kind":"research_software_method_report","id":"event_37053d529760ce20d3bada9423d25cee"}
+{"created_at":"2026-09-29T02:29:41.021501+00:00","event_kind":"AI科学计算基础设施公告","id":"event_3fa99f535cb0e890e4927f9f8d76cb81"}
 {"created_at":"2026-09-28T16:49:36.280285+00:00","event_kind":"real_world_AI_agent_deployment_and_behavior_study","id":"event_416a7472f5b16c89cd853575153514a8"}
 {"created_at":"2026-09-28T17:23:58.495022+00:00","event_kind":"model_and_dataset_release","id":"event_5ce73f34c9db40c4ee0117ad7212e666"}
 {"created_at":"2026-09-29T02:09:06.811655+00:00","event_kind":"scientific_advisory_group_formation","id":"event_6ce862a2976675d18ce93c5e4c8e50c8"}

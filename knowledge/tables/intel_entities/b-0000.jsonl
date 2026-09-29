@@ -11,9 +11,12 @@
 {"canonical_name":"University of Illinois Urbana-Champaign","first_known_at":"2026-09-28T09:22:10.508326+00:00","id":"entity_8d02bbe48c5c06ebfeb70665675c150f","kind":"organization","stable_identifier":null}
 {"canonical_name":"Anaerobic Microbial Phenotyping Platform (AMP2)","first_known_at":"2026-09-28T16:39:42.228534+00:00","id":"entity_9477c3ae2067502db46954a8afb139b7","kind":"research infrastructure","stable_identifier":null}
 {"canonical_name":"LongevityBench","first_known_at":"2026-09-28T07:40:22.797917+00:00","id":"entity_a9845370c61e8adeaf6cdbf8cb1f11c5","kind":"benchmark","stable_identifier":null}
+{"canonical_name":"NVIDIA Halos for Robotics","first_known_at":"2026-09-29T02:27:00.246097+00:00","id":"entity_b8b1f1692adb1a41c7fb96bc2c57ac24","kind":"robotics safety system","stable_identifier":null}
 {"canonical_name":"Andon Market","first_known_at":"2026-09-28T07:35:18.96786+00:00","id":"entity_b9e98a2fcea11173dddd6c93d2fe61e9","kind":"organization","stable_identifier":null}
 {"canonical_name":"Apple","first_known_at":"2026-09-28T16:14:41.09561+00:00","id":"entity_bc7ae841dbdf94d63a1789a63b7f132a","kind":"organization","stable_identifier":null}
 {"canonical_name":"ferroptosis suppressor protein 1 (FSP1)","first_known_at":"2026-09-28T21:43:19.852745+00:00","id":"entity_c0aae6da2420fa475704f90a6d4345a8","kind":"protein target","stable_identifier":null}
+{"canonical_name":"Yale University","first_known_at":"2026-09-29T03:56:17.001185+00:00","id":"entity_c6790cda6bee1fead00278899150e873","kind":"university","stable_identifier":null}
 {"canonical_name":"Insilico Medicine","first_known_at":"2026-09-28T07:40:22.797917+00:00","id":"entity_cfbc6a6c8b8ed355e8bfc0ca66d6a986","kind":"organization","stable_identifier":"HKEX: 3696"}
 {"canonical_name":"Authors of “AI scientists produce results without reasoning scientifically”","first_known_at":"2026-09-28T14:10:57.637892+00:00","id":"entity_db6e2c33acb34f8ee77f86b6c17dcf6e","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"Synthetic Sciences","first_known_at":"2026-09-29T03:39:32.59006+00:00","id":"entity_ef1324455ad820c999a5ae61a213f7f8","kind":"organization","stable_identifier":null}
 {"canonical_name":"Coupled Cross-sectional and Longitudinal Non-negative Matrix Factorization (CCL-NMF)","first_known_at":"2026-09-28T22:06:22.485687+00:00","id":"entity_fd6592b97adc304c40bc8099ef75529f","kind":"research method","stable_identifier":null}

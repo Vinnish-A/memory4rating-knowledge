@@ -1,15 +1,21 @@
+{"canonical_name":"SoL-Pi","first_known_at":"2026-09-29T02:24:54.351992+00:00","id":"entity_03e190e5eb734e63547737e1533a4f1a","kind":"AI agent extension","stable_identifier":"https://arxiv.org/abs/2609.20519"}
 {"canonical_name":"Cross-Layer Attention (CLA)","first_known_at":"2026-09-28T19:47:58.519773+00:00","id":"entity_07d589828cc7402563f4e02929898636","kind":"attention architecture","stable_identifier":null}
 {"canonical_name":"Crosscoders note authors","first_known_at":"2026-09-28T10:12:52.567204+00:00","id":"entity_17e04bffd63d3bc643c4bc287bc07239","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Nonnegative matrix factorization (NMF)","first_known_at":"2026-09-28T10:12:52.567204+00:00","id":"entity_34e2e958dfe6c25751d4a52727e4d401","kind":"statistical method","stable_identifier":null}
+{"canonical_name":"中科曙光","first_known_at":"2026-09-29T02:35:15.795784+00:00","id":"entity_3e4a7addb0ab3563cc739fc9053c0285","kind":"organization","stable_identifier":null}
 {"canonical_name":"dictionary learning for transformer visualization","first_known_at":"2026-09-28T23:35:56.452212+00:00","id":"entity_496f04694aea444268b876d048f0a99a","kind":"research method","stable_identifier":null}
+{"canonical_name":"OpenScience","first_known_at":"2026-09-29T03:39:32.59006+00:00","id":"entity_51c4350285f083af43898fe4096f3dba","kind":"research software","stable_identifier":"https://github.com/synthetic-sciences/openscience"}
+{"canonical_name":"GMO AI & 机器人商事（GMO AIR）","first_known_at":"2026-09-29T02:30:58.836478+00:00","id":"entity_5341f6b66848518e12fc9e430aa411cb","kind":"organization","stable_identifier":null}
 {"canonical_name":"Reuters","first_known_at":"2026-09-28T07:41:22.084478+00:00","id":"entity_6763dd8cadbf263ded59631bd5a47b1f","kind":"organization","stable_identifier":null}
 {"canonical_name":"台积电（TSMC）","first_known_at":"2026-09-29T02:00:01.709758+00:00","id":"entity_68bf0cbc022e51ca622d1f25392132cb","kind":"organization","stable_identifier":null}
+{"canonical_name":"IdeaGene-Bench (IG-Bench)","first_known_at":"2026-09-29T03:59:18.27954+00:00","id":"entity_6acae4330227d761a8a60482d20a9052","kind":"scientific benchmark","stable_identifier":"https://arxiv.org/abs/2607.08758"}
 {"canonical_name":"fmxcoders paper authors","first_known_at":"2026-09-28T22:46:05.181938+00:00","id":"entity_6e7d574c3f9c11b376277cc0e862b761","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Korea’s Ministry of Science and ICT (MSIT)","first_known_at":"2026-09-28T17:07:12.829714+00:00","id":"entity_7742d7492749016b54c363fd856e1e0f","kind":"government ministry","stable_identifier":null}
 {"canonical_name":"DeepSeek-V4 paper authors","first_known_at":"2026-09-28T21:31:36.497209+00:00","id":"entity_7b6dea416547a92fce2567646a55e717","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"DeepSeek","first_known_at":"2026-09-28T07:39:10.718499+00:00","id":"entity_8c04fe2c7f21e61e5a2a978e0b66c490","kind":"organization","stable_identifier":null}
 {"canonical_name":"Sequoia Capital","first_known_at":"2026-09-29T00:11:09.100775+00:00","id":"entity_9924e8735104c2948f3146e1c810b5e5","kind":"organization","stable_identifier":null}
 {"canonical_name":"AI-designed green concrete mix","first_known_at":"2026-09-28T09:22:10.508326+00:00","id":"entity_a8d4c5918ee10c15242973ddfe88deb1","kind":"construction material","stable_identifier":null}
+{"canonical_name":"Claude Science","first_known_at":"2026-09-29T03:10:30.693994+00:00","id":"entity_acbb574598219665ccc27ba477be59bd","kind":"AI research workspace","stable_identifier":null}
 {"canonical_name":"James Zou","first_known_at":"2026-09-28T07:36:53.043159+00:00","id":"entity_af5c4839cb0f73541eef334944371ba3","kind":"person","stable_identifier":null}
 {"canonical_name":"Sparse crosscoders","first_known_at":"2026-09-28T07:40:52.345344+00:00","id":"entity_b12bf68a986e7f88dde43807c108a8f8","kind":"method","stable_identifier":null}
 {"canonical_name":"SpaceXAI","first_known_at":"2026-09-28T08:00:40.927125+00:00","id":"entity_b46dcaababd48bd4e622db738378f4a4","kind":"organization","stable_identifier":null}

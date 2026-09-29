@@ -5,6 +5,7 @@
 {"canonical_name":"the Ministry’s three AI Bio Innovation Hubs","first_known_at":"2026-09-28T07:43:20.730266+00:00","id":"entity_2c5c5fe04f18373a3f8c19a7b9d75cf9","kind":"organization_group","stable_identifier":null}
 {"canonical_name":"Meta sustainable concrete AI model and pipeline","first_known_at":"2026-09-28T09:22:10.508326+00:00","id":"entity_2ff74df06480fb43eda45ade466a583a","kind":"AI model and pipeline","stable_identifier":null}
 {"canonical_name":"Lund University","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_3643454d977c4a40ea87919d49c3bdaa","kind":"organization","stable_identifier":null}
+{"canonical_name":"United Nations AI Independent International Scientific Panel","first_known_at":"2026-09-29T03:18:16.006467+00:00","id":"entity_4c2890216eb5d6eb08a39094339135e2","kind":"organization","stable_identifier":null}
 {"canonical_name":"BioNeMo Structure Prediction Pipeline","first_known_at":"2026-09-28T07:10:21.164617+00:00","id":"entity_51195e959f327fc9292c329d523d07ff","kind":"software","stable_identifier":null}
 {"canonical_name":"LFM2.5-VL-3B-DSpark","first_known_at":"2026-09-28T07:36:49.392956+00:00","id":"entity_513697f41edf3fc1579d090646c05db8","kind":"AI_model","stable_identifier":null}
 {"canonical_name":"Carnegie Mellon University","first_known_at":"2026-09-28T17:44:16.79193+00:00","id":"entity_5bbc070457b61f2520249d1bf0d01176","kind":"organization","stable_identifier":null}
@@ -15,6 +16,8 @@
 {"canonical_name":"具身智能","first_known_at":"2026-09-28T07:42:18.544159+00:00","id":"entity_7368de2478a6ee79cdc1a4b6b8482c9e","kind":"academic_discipline","stable_identifier":null}
 {"canonical_name":"Julia 1","first_known_at":"2026-09-28T07:33:18.035455+00:00","id":"entity_7ebaabe2baf20ae4b29b46a31c6e4380","kind":"AI_model","stable_identifier":null}
 {"canonical_name":"ICML, STOC and NeurIPS","first_known_at":"2026-09-28T18:51:01.39905+00:00","id":"entity_80d1a2d4bbc28cc52a8e019db883abc6","kind":"scientific conferences","stable_identifier":null}
+{"canonical_name":"俄罗斯国家杜马","first_known_at":"2026-09-29T03:51:10.000377+00:00","id":"entity_8d261b2b7d4e840d64381c65b1cba045","kind":"government body","stable_identifier":null}
+{"canonical_name":"Frontier Design","first_known_at":"2026-09-29T03:55:08.139231+00:00","id":"entity_99420381e0b865896b936c411d39d9d0","kind":"organization","stable_identifier":null}
 {"canonical_name":"President Trump","first_known_at":"2026-09-28T17:38:50.434027+00:00","id":"entity_9f23c67e10c62c3fb31287ac5adada73","kind":"person","stable_identifier":null}
 {"canonical_name":"random cross-layer attention","first_known_at":"2026-09-28T19:36:04.192379+00:00","id":"entity_b2173f7ff1c9abefa09e11aada044e3f","kind":"machine-learning method","stable_identifier":null}
 {"canonical_name":"Claude","first_known_at":"2026-09-28T07:34:54.709759+00:00","id":"entity_c235eb07147ce2d502a6a2d3d8a05346","kind":"AI_model_family","stable_identifier":null}

@@ -7,15 +7,19 @@
 {"canonical_name":"DeepSeek-V4 series","first_known_at":"2026-09-28T21:31:36.497209+00:00","id":"entity_2036506ba3f11dd22f0d1b60fd9633ec","kind":"AI model family","stable_identifier":null}
 {"canonical_name":"Pacific Northwest National Laboratory (PNNL)","first_known_at":"2026-09-28T16:39:42.228534+00:00","id":"entity_23d9b00455359f5716f0cd432bd70cd2","kind":"national laboratory","stable_identifier":null}
 {"canonical_name":"random cross-layer attention (R-CLA)","first_known_at":"2026-09-28T16:11:17.016471+00:00","id":"entity_26c43c53d208b14038c061e9703b7616","kind":"training method","stable_identifier":null}
+{"canonical_name":"Claude Science","first_known_at":"2026-09-29T03:12:03.142382+00:00","id":"entity_300f68714d4a0c2df3f25d19451316cd","kind":"AI research platform","stable_identifier":null}
+{"canonical_name":"Sakana AI","first_known_at":"2026-09-29T02:22:30.851033+00:00","id":"entity_39c46a3e7b8fc8e858213cbf6a58264a","kind":"organization","stable_identifier":null}
 {"canonical_name":"DeepSeek-V4-Pro","first_known_at":"2026-09-28T07:39:10.718499+00:00","id":"entity_3fbf5d47ab3f126fa02cf3aa601d7253","kind":"AI_model","stable_identifier":null}
 {"canonical_name":"The Genesis Mission","first_known_at":"2026-09-28T17:37:05.654151+00:00","id":"entity_41786bbff9ba4211f72153457d302696","kind":"research initiative","stable_identifier":null}
 {"canonical_name":"CaP-Agent0","first_known_at":"2026-09-28T17:42:21.38389+00:00","id":"entity_4e93e9479eba43da1498fb4ccf3621bb","kind":"robot control framework","stable_identifier":null}
+{"canonical_name":"Cell2Sentence-Scale","first_known_at":"2026-09-29T03:56:17.001185+00:00","id":"entity_553cf78edcb220d763950ae273fea8e9","kind":"AI research model","stable_identifier":null}
 {"canonical_name":"Korean AI Safety Institute (AISI)","first_known_at":"2026-09-28T07:43:20.730266+00:00","id":"entity_70eb2bc9420e4d16fcfbe3b0fd39a00b","kind":"organization","stable_identifier":null}
 {"canonical_name":"Authors of A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference","first_known_at":"2026-09-28T19:45:22.603823+00:00","id":"entity_770bd07011b6ccf4dc49eb072cd0d7e4","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Seoul National University (SNU)","first_known_at":"2026-09-28T17:07:12.829714+00:00","id":"entity_79ffb89508118c2f9709a3b761321c65","kind":"research institution","stable_identifier":null}
 {"canonical_name":"Swiss Institute of Bioinformatics (SIB)","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_7e870b93609a8d9bba55966b7a0fdb59","kind":"organization","stable_identifier":null}
 {"canonical_name":"Over 100 institutions collaborating with Google","first_known_at":"2026-09-28T18:51:01.39905+00:00","id":"entity_7f147042c24882d542b4a0e7132f3a18","kind":"research collaboration participants","stable_identifier":null}
 {"canonical_name":"CaP-RL","first_known_at":"2026-09-28T17:42:21.38389+00:00","id":"entity_9846d8ca3f5cb1acc87cec784f67d85c","kind":"reinforcement-learning framework","stable_identifier":null}
+{"canonical_name":"MirrorCode","first_known_at":"2026-09-29T02:53:02.016223+00:00","id":"entity_a2d94bf74bc7d56bf8459b8e207862fb","kind":"AI coding benchmark","stable_identifier":"https://github.com/epoch-research/MirrorCode/"}
 {"canonical_name":"CaP-X paper authors","first_known_at":"2026-09-28T17:42:21.38389+00:00","id":"entity_a6c15882c8d67293a0e92616eb0536ba","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"IT之家","first_known_at":"2026-09-29T02:00:01.709758+00:00","id":"entity_cc9fbbb682fcbcfed53f11804c1e0504","kind":"media organization","stable_identifier":null}
 {"canonical_name":"Artificial Intelligence-related health research: ethics review and oversight","first_known_at":"2026-09-28T07:35:24.777422+00:00","id":"entity_cf05d8827bf03939129cd76f429a0994","kind":"report","stable_identifier":null}

@@ -7,6 +7,7 @@
 {"canonical_name":"OpenAI o4-mini","first_known_at":"2026-09-28T18:33:12.312063+00:00","id":"entity_6e8a229d1446cd252c04880a0e20e408","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Schrödinger","first_known_at":"2026-09-28T07:45:50.713586+00:00","id":"entity_74f7b241dfd801a2a5025265b6e5fe7d","kind":"organization","stable_identifier":null}
 {"canonical_name":"论文作者（本段未具名）","first_known_at":"2026-09-28T15:43:03.00179+00:00","id":"entity_8ef0ad8be114fe2c3052be7bacb9a552","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"SuperC 国际联盟","first_known_at":"2026-09-29T03:40:36.814232+00:00","id":"entity_9237f411375e62d5daecf8529fc39534","kind":"organization","stable_identifier":null}
 {"canonical_name":"American Science and Security Platform","first_known_at":"2026-09-28T17:32:05.072737+00:00","id":"entity_95b44a9b3cf4b9bbe7024fcfac9b2e12","kind":"AI-driven scientific discovery platform","stable_identifier":null}
 {"canonical_name":"Repository author","first_known_at":"2026-09-28T22:56:12.601912+00:00","id":"entity_a8efca709554c4c008c2ab819b784081","kind":"repository author","stable_identifier":null}
 {"canonical_name":"Claude","first_known_at":"2026-09-28T09:25:45.758011+00:00","id":"entity_af032de86bc3a8749ca747e0e6c3769c","kind":"AI model family","stable_identifier":null}
@@ -16,5 +17,6 @@
 {"canonical_name":"Caffe2","first_known_at":"2026-09-28T20:49:58.120655+00:00","id":"entity_dcb51b4262a2ffe8edc78e4b957944f0","kind":"research software framework","stable_identifier":null}
 {"canonical_name":"AlphaFold2","first_known_at":"2026-09-28T14:49:22.836463+00:00","id":"entity_e364ac1f63d26e84468c08468b9e2940","kind":"AI model","stable_identifier":null}
 {"canonical_name":"End-to-end (e2e) sparse dictionary learning","first_known_at":"2026-09-28T23:39:05.882434+00:00","id":"entity_e74b72c8259995fe0541e0361cef9110","kind":"machine-learning method","stable_identifier":null}
+{"canonical_name":"amortized MIPS","first_known_at":"2026-09-29T03:24:29.369915+00:00","id":"entity_ec9c8aabfc07f26d222d75970163cdf7","kind":"research method","stable_identifier":null}
 {"canonical_name":"Sparse crosscoders","first_known_at":"2026-09-28T10:12:52.567204+00:00","id":"entity_ed7ac77f3beb1ad6a657f36189267e2e","kind":"machine-learning method","stable_identifier":null}
 {"canonical_name":"DeepSeek-V4-Pro","first_known_at":"2026-09-28T21:31:36.497209+00:00","id":"entity_fa357e490352968619f56f00d0d31c86","kind":"AI model","stable_identifier":null}

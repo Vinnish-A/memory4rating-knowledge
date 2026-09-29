@@ -1,4 +1,5 @@
 {"canonical_name":"Gemma-2 2b base and IT","first_known_at":"2026-09-28T22:56:12.601912+00:00","id":"entity_0615775b029abd1e62f9760796cb5675","kind":"AI model","stable_identifier":null}
+{"canonical_name":"《如何获得前沿实验室职位》","first_known_at":"2026-09-29T02:26:45.595866+00:00","id":"entity_0b9ebdb8477d855709f8e516a3d5ade5","kind":"blog post","stable_identifier":null}
 {"canonical_name":"Anthropic wet biology lab (Bay Area)","first_known_at":"2026-09-28T21:04:57.035686+00:00","id":"entity_0d77b0f04c5ca259dc124db43c7a7a00","kind":"research laboratory","stable_identifier":null}
 {"canonical_name":"Science Skills","first_known_at":"2026-09-28T18:51:01.39905+00:00","id":"entity_1202c6ffff5f8b06d1f73bf8a86905a8","kind":"scientific software bundle","stable_identifier":null}
 {"canonical_name":"Department of Biochemistry & Molecular Biology (BMB)","first_known_at":"2026-09-28T07:39:05.061489+00:00","id":"entity_1324b1a3f7d34b7582e51a3125611038","kind":"organization","stable_identifier":null}
@@ -15,12 +16,14 @@
 {"canonical_name":"Claude Mythos Preview","first_known_at":"2026-09-28T09:32:19.435078+00:00","id":"entity_8245fb6884fa20695d5796fe9812cabb","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Claude Sonnet 4.5","first_known_at":"2026-09-28T20:01:01.472398+00:00","id":"entity_8d69dd9c194c899021384117d292cba8","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Apollo Research","first_known_at":"2026-09-28T18:33:12.312063+00:00","id":"entity_9504eefd31696df04a868bd553306abb","kind":"organization","stable_identifier":null}
+{"canonical_name":"ParaStor F9000","first_known_at":"2026-09-29T02:35:15.795784+00:00","id":"entity_a1db43f3313357d573e491b281a56ebd","kind":"storage system","stable_identifier":null}
 {"canonical_name":"EurekAgent paper authors","first_known_at":"2026-09-29T02:01:20.720718+00:00","id":"entity_a821768ef7d70605c1ddd7b4b35516cf","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"NVIDIA BioNeMo Inference Runtime","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_afa379ccd2df3da4d6df44afe57ef7d6","kind":"software","stable_identifier":null}
 {"canonical_name":"Cross-Layer Attention (CLA)","first_known_at":"2026-09-28T19:40:20.03921+00:00","id":"entity_b3014a9d032475c1cda4f3539ad97238","kind":"machine-learning method","stable_identifier":null}
 {"canonical_name":"StableVLA","first_known_at":"2026-09-28T07:59:50.485621+00:00","id":"entity_b6a04508c2bb4a3727073d5cdcbecc7d","kind":"AI_model","stable_identifier":null}
 {"canonical_name":"Cross-Layer Attention paper authors","first_known_at":"2026-09-28T19:40:20.03921+00:00","id":"entity_b6a527d69d75f8df461f473b11f9866d","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"NVIDIA cuEST","first_known_at":"2026-09-29T02:00:01.709758+00:00","id":"entity_b96ce1041975d8af3c907d16071ddc27","kind":"electronic-structure simulation library","stable_identifier":null}
+{"canonical_name":"BAIR Lab class of 2026","first_known_at":"2026-09-29T03:19:00.323716+00:00","id":"entity_b9f5a72fb23bca6143bdcd462c11a849","kind":"research workforce cohort","stable_identifier":null}
 {"canonical_name":"fmxcoders","first_known_at":"2026-09-28T22:46:05.181938+00:00","id":"entity_bd781277566a88a9592c5cd9278ae4e2","kind":"machine-learning method","stable_identifier":null}
 {"canonical_name":"CMU agent skills 短课程及后续课程","first_known_at":"2026-09-29T01:52:22.883845+00:00","id":"entity_bff5f4ad2ab94b740c77db97f02d2e75","kind":"course","stable_identifier":null}
 {"canonical_name":"AlphaFold Database viral protein complex dataset","first_known_at":"2026-09-28T14:49:22.836463+00:00","id":"entity_c5f868c90d27c68ad25dd459cd01f78b","kind":"research dataset","stable_identifier":null}

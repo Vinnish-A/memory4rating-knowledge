@@ -8,13 +8,16 @@
 {"canonical_name":"Intern-Decision-4B","first_known_at":"2026-09-28T21:50:06.664975+00:00","id":"entity_48482f8e20e3c0e4ae27039db4143004","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Longevity-LLMs","first_known_at":"2026-09-28T07:40:22.797917+00:00","id":"entity_49624c10bb09e0573c127dcdbbe6a2fe","kind":"AI_model_family","stable_identifier":null}
 {"canonical_name":"Amit Sahai","first_known_at":"2026-09-28T07:34:25.986574+00:00","id":"entity_4ca705ff9b2a39c711bd606780c60f11","kind":"person","stable_identifier":null}
+{"canonical_name":"Cognite Holding（Cognite）","first_known_at":"2026-09-29T03:14:34.066+00:00","id":"entity_4dbc2169a7952feb35f88634eefc94f0","kind":"company","stable_identifier":null}
 {"canonical_name":"AI-generated mathematical ideas and human understanding","first_known_at":"2026-09-28T15:35:43.783399+00:00","id":"entity_5bf7b59c6f8724e742782550cd448838","kind":"concept","stable_identifier":null}
 {"canonical_name":"Ethical guidelines for application of artificial intelligence in biomedical research and health care","first_known_at":"2026-09-28T11:07:29.623177+00:00","id":"entity_750fea3f0c3279c772e61ada19d597e4","kind":"guidelines","stable_identifier":null}
 {"canonical_name":"InternLM/Intern-Decision","first_known_at":"2026-09-28T07:33:53.50108+00:00","id":"entity_7b073d4e67654e176796e76c3baf76b2","kind":"research_project","stable_identifier":"https://github.com/InternLM/Intern-Decision"}
 {"canonical_name":"Brussels Morning","first_known_at":"2026-09-28T07:37:48.931661+00:00","id":"entity_7f8c4649e1189576417babb5204d001f","kind":"news_organization","stable_identifier":null}
 {"canonical_name":"Michael Smith Laboratories (MSL)","first_known_at":"2026-09-28T07:39:05.061489+00:00","id":"entity_843b20366d4f39257eb345126c50860d","kind":"organization","stable_identifier":null}
+{"canonical_name":"Self-Reflective Program Search for Long Context (SRLM)","first_known_at":"2026-09-29T03:57:29.762043+00:00","id":"entity_8c365c6b773854fbb18c7fd3a29772a7","kind":"AI method","stable_identifier":null}
 {"canonical_name":"Adaptyv","first_known_at":"2026-09-28T09:32:19.435078+00:00","id":"entity_a1ae85b8b7416e65db12052121795cc2","kind":"organization","stable_identifier":null}
 {"canonical_name":"Claude Science","first_known_at":"2026-09-28T21:21:20.934959+00:00","id":"entity_ae8e58d98191d7b1e9239ebadb96d918","kind":"AI model","stable_identifier":null}
+{"canonical_name":"Unconventional AI","first_known_at":"2026-09-29T02:49:49.077439+00:00","id":"entity_d3cd9b2fc8e59c7410ef9dd7c946d626","kind":"organization","stable_identifier":null}
 {"canonical_name":"Anthropic interpretability team","first_known_at":"2026-09-28T22:19:46.398673+00:00","id":"entity_db889724076f3cf0cbd165126aa8f279","kind":"research team","stable_identifier":null}
 {"canonical_name":"StableVLA authors","first_known_at":"2026-09-28T07:59:50.485621+00:00","id":"entity_dc41b49231efc41fbdbab0ad5441da6a","kind":"research_team","stable_identifier":null}
 {"canonical_name":"ALPHA (Accelerated Formal Proof Synthesis with Neuro-Symbolic Automation)","first_known_at":"2026-09-28T15:40:29.491121+00:00","id":"entity_e436e86f29233f968c5e748ae7bbcf7b","kind":"AI research project","stable_identifier":null}

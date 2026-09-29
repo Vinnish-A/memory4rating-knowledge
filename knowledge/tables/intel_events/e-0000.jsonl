@@ -4,6 +4,7 @@
 {"created_at":"2026-09-29T01:33:39.766351+00:00","event_kind":"AI_assisted_biological_discovery_report","id":"event_57e0ebc3f56c40f1faf2cebeeb6cbae2"}
 {"created_at":"2026-09-28T07:37:48.931661+00:00","event_kind":"laboratory_establishment","id":"event_715048c4bb7685817b07afcce26e53e7"}
 {"created_at":"2026-09-28T07:41:24.631236+00:00","event_kind":"software_adoption","id":"event_c72fb5e6467c63dffd578cab139d47e4"}
+{"created_at":"2026-09-29T03:55:08.139231+00:00","event_kind":"AI_model_release","id":"event_d27e1cea6972967b349280a803dd9b83"}
 {"created_at":"2026-09-29T01:17:55.67693+00:00","event_kind":"AI_assisted_analytical_chemistry_evaluation","id":"event_dd2bb580dceac822fb6ea649315d40ac"}
 {"created_at":"2026-09-28T07:39:10.718499+00:00","event_kind":"model_release","id":"event_f6023d01e883f3795f3bc2f5f29edf9c"}
 {"created_at":"2026-09-28T21:50:06.664975+00:00","event_kind":"research_model_and_evaluation_artifact_release","id":"event_f7bd9356db0acf486be68c57c8788774"}

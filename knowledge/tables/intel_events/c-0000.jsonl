@@ -8,8 +8,10 @@
 {"created_at":"2026-09-28T07:35:24.777422+00:00","event_kind":"report_publication","id":"event_7bdd6937742a4b1237376b722ffbd54b"}
 {"created_at":"2026-09-28T07:10:21.164617+00:00","event_kind":"dataset_release","id":"event_7f3c407d9c83ba8f8a4bd4591c6fd67d"}
 {"created_at":"2026-09-28T07:34:25.986574+00:00","event_kind":"commentary","id":"event_844d2ed31bca1a48c7932934c2962bdb"}
+{"created_at":"2026-09-29T03:40:36.814232+00:00","event_kind":"AI-assisted_material_discovery_and_experimental_confirmation","id":"event_8bfc907c192499a067638f4049ed700f"}
 {"created_at":"2026-09-28T22:06:22.485687+00:00","event_kind":"research_method_proposal_and_evaluation","id":"event_a4196a0db3d2d0ed12a0009cddfcb112"}
 {"created_at":"2026-09-28T19:25:30.907375+00:00","event_kind":"report_publication","id":"event_d8f5f4b410e408d8349c88b29a50ac73"}
 {"created_at":"2026-09-28T17:32:05.072737+00:00","event_kind":"research_infrastructure_description","id":"event_db969c093b1702ddbe72ecaba0e2a1c7"}
 {"created_at":"2026-09-29T01:47:22.945036+00:00","event_kind":"AI model family release","id":"event_ec1303fd48d9608c2e1c9c1bba4facc6"}
 {"created_at":"2026-09-29T00:16:05.724211+00:00","event_kind":"research_compute_infrastructure_expansion_announcement","id":"event_fc00cbfe5dcb8b0fbfcb8e6927304172"}
+{"created_at":"2026-09-29T02:57:28.891873+00:00","event_kind":"research_tool_development_and_evaluation_report","id":"event_fe736f9435ce095e5932276ec0e4ae45"}

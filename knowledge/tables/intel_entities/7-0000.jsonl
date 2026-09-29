@@ -18,7 +18,9 @@
 {"canonical_name":"contract lab (unnamed)","first_known_at":"2026-09-29T01:17:55.67693+00:00","id":"entity_aeb44712e17ef78b1282e9466412ef96","kind":"organization","stable_identifier":null}
 {"canonical_name":"RL Conductor (7B)","first_known_at":"2026-09-29T00:32:41.311434+00:00","id":"entity_b4d3d004600033241d424d1e9afc9806","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Claude 3 model family","first_known_at":"2026-09-29T01:47:22.945036+00:00","id":"entity_b7293d2b908f35cd47a6d1f8e2295ada","kind":"AI model family","stable_identifier":null}
+{"canonical_name":"AVEVA","first_known_at":"2026-09-29T03:14:34.066+00:00","id":"entity_be0e7eb6a8506d67359b2cad2e41ac1d","kind":"organization","stable_identifier":null}
 {"canonical_name":"crosscoder model diffing","first_known_at":"2026-09-28T22:19:46.398673+00:00","id":"entity_c701136f5237271f0b4c66c75d759f79","kind":"machine-learning method","stable_identifier":null}
+{"canonical_name":"ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain)","first_known_at":"2026-09-29T02:14:56.153155+00:00","id":"entity_ccc969d00b5570c3cbe7b976ff3597ae","kind":"robotic rover prototype","stable_identifier":null}
 {"canonical_name":"Claude Science","first_known_at":"2026-09-28T21:25:01.995193+00:00","id":"entity_da05edfdccf8cb20f69ce5f1cd6d7be0","kind":"AI research product","stable_identifier":null}
 {"canonical_name":"Andon Labs","first_known_at":"2026-09-28T07:35:18.96786+00:00","id":"entity_deb1efe0ee3f9b4bf5242beea3a96d53","kind":"organization","stable_identifier":null}
 {"canonical_name":"Bacteriophage enzyme system","first_known_at":"2026-09-28T09:48:33.896871+00:00","id":"entity_df63e43e7f6aa167c8ec72610be273dc","kind":"biological system","stable_identifier":null}

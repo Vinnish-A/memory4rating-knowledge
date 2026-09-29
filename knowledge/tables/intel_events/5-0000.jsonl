@@ -2,8 +2,10 @@
 {"created_at":"2026-09-28T20:27:00.587726+00:00","event_kind":"research_workforce_commentary","id":"event_33822b97091f2e262a02f1149783a3ed"}
 {"created_at":"2026-09-28T07:41:24.631236+00:00","event_kind":"software_release","id":"event_412f52b29dd13230a4f3ea6141af1bde"}
 {"created_at":"2026-09-28T07:43:20.730266+00:00","event_kind":"research_collaboration_announcement","id":"event_5e4f817c84e9011eaaa7e915f7afab96"}
+{"created_at":"2026-09-29T03:51:10.000377+00:00","event_kind":"AI_science_policy_legislation","id":"event_5eab16fc54fa83b9bc1ffc58a02f50f3"}
 {"created_at":"2026-09-28T07:36:49.392956+00:00","event_kind":"model_release","id":"event_6367401037a27ceb3016421eaaadf45d"}
 {"created_at":"2026-09-28T21:53:41.298558+00:00","event_kind":"research_evaluation_protocol_documentation","id":"event_6a0641339053f7c93d12eb1d44d166be"}
+{"created_at":"2026-09-29T02:35:15.795784+00:00","event_kind":"存储系统性能榜单结果报告","id":"event_86748b22ab2e594f04e88445e4bce791"}
 {"created_at":"2026-09-28T14:49:22.836463+00:00","event_kind":"research_dataset_release","id":"event_94cd8c84770d82ce65fd8e71283e7f79"}
 {"created_at":"2026-09-29T01:52:22.883845+00:00","event_kind":"research_software_and_paper_release_announcement","id":"event_c9a8df218cfb972db4199e1b36b5581e"}
 {"created_at":"2026-09-28T23:31:15.852526+00:00","event_kind":"research_method_and_evaluation_report","id":"event_ee085b329e085dad9a394e7a2b6f5db0"}

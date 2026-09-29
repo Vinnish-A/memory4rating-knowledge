@@ -9,4 +9,5 @@
 {"created_at":"2026-09-28T09:22:10.508326+00:00","event_kind":"industrial_application","id":"event_93600b91134052d25227a99829c0854b"}
 {"created_at":"2026-09-28T21:47:35.29227+00:00","event_kind":"protein_design_competition_launch_and_terms","id":"event_acbb8d39de31616a4ffa2f6aea8c6285"}
 {"created_at":"2026-09-28T07:37:48.931661+00:00","event_kind":"experimental_validation","id":"event_b983d0ed537c31a5da0d8d703228a666"}
+{"created_at":"2026-09-29T02:14:56.153155+00:00","event_kind":"autonomous_rover_field_test","id":"event_bc538bbc9840d37b0b7e9629cf755752"}
 {"created_at":"2026-09-28T11:07:29.623177+00:00","event_kind":"research_ethics_guidance_report","id":"event_e5f780e4bdcfff56e2db2b8631ef6cff"}

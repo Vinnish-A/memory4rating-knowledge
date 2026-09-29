@@ -9,6 +9,7 @@
 {"canonical_name":"Gemini for Science","first_known_at":"2026-09-28T18:51:01.39905+00:00","id":"entity_5ba1092898719396bf09549ce40219a2","kind":"AI science tools collection","stable_identifier":null}
 {"canonical_name":"Seoul National University (SNU)","first_known_at":"2026-09-28T07:43:20.730266+00:00","id":"entity_64ae4bb6a5fc72e5fbc8763fb70167c7","kind":"organization","stable_identifier":null}
 {"canonical_name":"作者（片段未具名）","first_known_at":"2026-09-28T18:39:06.051065+00:00","id":"entity_651ccd8b11d4f98723adddd539b85362","kind":"person","stable_identifier":null}
+{"canonical_name":"NASA","first_known_at":"2026-09-29T02:14:56.153155+00:00","id":"entity_86337a2eab39d57fe2e2d0ab8573c322","kind":"organization","stable_identifier":null}
 {"canonical_name":"DeepSeek-V4-Flash","first_known_at":"2026-09-28T21:31:36.497209+00:00","id":"entity_8ec968a3ae1bac9afefb6f3a479c8a91","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Korean AI Safety Institute (AISI)","first_known_at":"2026-09-28T17:07:12.829714+00:00","id":"entity_9502d6f17ef3bec39bea1206f1fbe9a6","kind":"research institute","stable_identifier":null}
 {"canonical_name":"地平线 HorizonRobotics","first_known_at":"2026-09-28T08:01:13.944099+00:00","id":"entity_962d50796d2e53649dab237d43983bd4","kind":"organization","stable_identifier":null}

@@ -1,6 +1,8 @@
 {"canonical_name":"Eureka","first_known_at":"2026-09-28T17:47:18.946535+00:00","id":"entity_020268fa664f8e6c40badce07fa73703","kind":"research project","stable_identifier":null}
+{"canonical_name":"GeneBench-Pro","first_known_at":"2026-09-29T03:17:21.132329+00:00","id":"entity_066a618cd41938ef768421dec3d8d7bb","kind":"benchmark","stable_identifier":null}
 {"canonical_name":"Dunia","first_known_at":"2026-09-28T07:40:09.364911+00:00","id":"entity_0f047076c44243ed467a6535d65166c2","kind":"company","stable_identifier":null}
 {"canonical_name":"Proteinbase","first_known_at":"2026-09-28T21:45:33.293711+00:00","id":"entity_17847f9afe2721c68577753b3c8511c2","kind":"organization","stable_identifier":null}
+{"canonical_name":"弗拉基米尔·费恩伯格（Vladimir Feinberg）","first_known_at":"2026-09-29T02:26:45.595866+00:00","id":"entity_1d2cadf674e79b1db95eff56592e4180","kind":"person","stable_identifier":null}
 {"canonical_name":"transformer factors","first_known_at":"2026-09-28T23:35:56.452212+00:00","id":"entity_252ec82ef24ae2a46136c5dee919c167","kind":"AI representation","stable_identifier":null}
 {"canonical_name":"Atria Dawn Preview","first_known_at":"2026-09-28T17:11:10.014118+00:00","id":"entity_2f69cac5eba2887c18f7dda65a75d677","kind":"AI model","stable_identifier":null}
 {"canonical_name":"AI for Science program","first_known_at":"2026-09-28T20:34:46.221782+00:00","id":"entity_3a9374311512561d5d62e60a441fa821","kind":"research funding program","stable_identifier":null}
@@ -20,7 +22,9 @@
 {"canonical_name":"Anthropic","first_known_at":"2026-09-28T07:33:48.878933+00:00","id":"entity_c6d0c989123fa30f3252ab1b33e72896","kind":"organization","stable_identifier":null}
 {"canonical_name":"DeepSeek-V4-Pro-Max","first_known_at":"2026-09-28T07:39:10.718499+00:00","id":"entity_c9d334776749365ca325e96c690cc0b5","kind":"AI_model_variant","stable_identifier":null}
 {"canonical_name":"Sungkyunkwan University (SKKU)","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_cb4bc12ca33c5cd2ff846dfe8787b2cc","kind":"organization","stable_identifier":null}
+{"canonical_name":"俄罗斯人工智能监管法案","first_known_at":"2026-09-29T03:51:10.000377+00:00","id":"entity_e06aeff5551292e69400a1c9038bd0e8","kind":"policy","stable_identifier":null}
 {"canonical_name":"AI infrastructure expansion and proposed gigawatt-scale factory","first_known_at":"2026-09-28T18:39:06.051065+00:00","id":"entity_e244ded9b5c8f4cb48f483b30f508c55","kind":"AI infrastructure project","stable_identifier":null}
 {"canonical_name":"Moonshot","first_known_at":"2026-09-28T08:00:40.927125+00:00","id":"entity_ebff738166b64a678a15662cad865e33","kind":"organization","stable_identifier":null}
 {"canonical_name":"AlphaFold Database","first_known_at":"2026-09-28T07:10:21.164617+00:00","id":"entity_f941a447d9a9d6f7af157baee7bbda35","kind":"database","stable_identifier":null}
 {"canonical_name":"Crosscoders note authors","first_known_at":"2026-09-28T07:40:52.345344+00:00","id":"entity_fab45284cf1c69f6a1d499712726ae50","kind":"research_team","stable_identifier":null}
+{"canonical_name":"METR","first_known_at":"2026-09-29T02:53:02.016223+00:00","id":"entity_fb516ebb8714ba923e79b880935eeb88","kind":"organization","stable_identifier":null}

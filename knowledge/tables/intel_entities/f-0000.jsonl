@@ -1,3 +1,5 @@
+{"canonical_name":"Paper Assistant Tool (PAT)","first_known_at":"2026-09-29T02:57:28.891873+00:00","id":"entity_00d0e4edf9ecba3340c62d2d07ccf6cb","kind":"AI research tool","stable_identifier":null}
+{"canonical_name":"MRPO paper authors","first_known_at":"2026-09-29T03:29:32.770834+00:00","id":"entity_00f15f46a1aa4db0b0ab61b1b3e92db0","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"未具名数学模型（报道描述）","first_known_at":"2026-09-29T02:09:06.811655+00:00","id":"entity_0930bad159495b6f2ab7dabf53a05829","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Coupled CCL-NMF study authors","first_known_at":"2026-09-28T22:06:22.485687+00:00","id":"entity_3578aa9c4c4ccd400ff04828f2b8032e","kind":"research group","stable_identifier":null}
 {"canonical_name":"SimpleDesign paper authors","first_known_at":"2026-09-28T09:39:32.883655+00:00","id":"entity_4384a1d11f2a293602857d3f949895db","kind":"researcher group","stable_identifier":null}
@@ -15,4 +17,5 @@
 {"canonical_name":"An open benchmark and language models for AI in aging biology","first_known_at":"2026-09-28T07:40:22.797917+00:00","id":"entity_c9cab0390282afe47378936c1728c3d1","kind":"publication","stable_identifier":"doi:10.1016/j.cell.2026.08.026"}
 {"canonical_name":"U.S. Department of Energy","first_known_at":"2026-09-28T17:38:50.434027+00:00","id":"entity_d517808f08d7d9717d13d02918c6874d","kind":"organization","stable_identifier":null}
 {"canonical_name":"University of British Columbia (UBC)","first_known_at":"2026-09-28T07:39:05.061489+00:00","id":"entity_ea96dc0cb51074ff10450d6a7265b001","kind":"organization","stable_identifier":null}
+{"canonical_name":"IT之家","first_known_at":"2026-09-29T03:14:34.066+00:00","id":"entity_f91cd7f25111e10d46057553f942c9d4","kind":"media outlet","stable_identifier":null}
 {"canonical_name":"Claude","first_known_at":"2026-09-28T09:48:33.896871+00:00","id":"entity_fc8fb8fdf7ebe50c69e3c32b8a039b3e","kind":"AI model","stable_identifier":null}
