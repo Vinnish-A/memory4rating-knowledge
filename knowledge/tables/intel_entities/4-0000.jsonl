@@ -1,0 +1,23 @@
+{"canonical_name":"Authors of the iREPA paper","first_known_at":"2026-09-28T20:08:39.262183+00:00","id":"entity_00a7eb740eccef12ab442861662d86b0","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"Massachusetts Institute of Technology (MIT FutureTech)","first_known_at":"2026-09-28T07:38:27.034529+00:00","id":"entity_0af689cf7111285fdd1a94d9b7df3b68","kind":"organization","stable_identifier":null}
+{"canonical_name":"Jim Fan","first_known_at":"2026-09-28T17:47:18.946535+00:00","id":"entity_1e17ccccac1f0f192e554b8555205415","kind":"researcher","stable_identifier":null}
+{"canonical_name":"Google DeepMind","first_known_at":"2026-09-28T07:38:27.034529+00:00","id":"entity_2a310d07c8ba0a4641c7c810614411c0","kind":"organization","stable_identifier":null}
+{"canonical_name":"the Ministry’s three AI Bio Innovation Hubs","first_known_at":"2026-09-28T07:43:20.730266+00:00","id":"entity_2c5c5fe04f18373a3f8c19a7b9d75cf9","kind":"organization_group","stable_identifier":null}
+{"canonical_name":"Meta sustainable concrete AI model and pipeline","first_known_at":"2026-09-28T09:22:10.508326+00:00","id":"entity_2ff74df06480fb43eda45ade466a583a","kind":"AI model and pipeline","stable_identifier":null}
+{"canonical_name":"Lund University","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_3643454d977c4a40ea87919d49c3bdaa","kind":"organization","stable_identifier":null}
+{"canonical_name":"BioNeMo Structure Prediction Pipeline","first_known_at":"2026-09-28T07:10:21.164617+00:00","id":"entity_51195e959f327fc9292c329d523d07ff","kind":"software","stable_identifier":null}
+{"canonical_name":"LFM2.5-VL-3B-DSpark","first_known_at":"2026-09-28T07:36:49.392956+00:00","id":"entity_513697f41edf3fc1579d090646c05db8","kind":"AI_model","stable_identifier":null}
+{"canonical_name":"Carnegie Mellon University","first_known_at":"2026-09-28T17:44:16.79193+00:00","id":"entity_5bbc070457b61f2520249d1bf0d01176","kind":"organization","stable_identifier":null}
+{"canonical_name":"Sang Truong","first_known_at":"2026-09-28T07:43:36.211326+00:00","id":"entity_5bc1830144ac89cc1e2f6bacbd79d479","kind":"person","stable_identifier":null}
+{"canonical_name":"PACT: From Credit Assignment to Critic Alignment","first_known_at":"2026-09-29T02:05:41.34145+00:00","id":"entity_62fae918be1a24fbdff25efb9c14bf97","kind":"research paper","stable_identifier":"https://arxiv.org/abs/2609.26355"}
+{"canonical_name":"Sanmi Koyejo","first_known_at":"2026-09-28T07:43:36.211326+00:00","id":"entity_640890313613ce58ebad9bf805d839bf","kind":"person","stable_identifier":null}
+{"canonical_name":"SAEBench paper authors","first_known_at":"2026-09-28T23:31:45.295348+00:00","id":"entity_64c94d8d890283d4c51cf3bf9022185e","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"具身智能","first_known_at":"2026-09-28T07:42:18.544159+00:00","id":"entity_7368de2478a6ee79cdc1a4b6b8482c9e","kind":"academic_discipline","stable_identifier":null}
+{"canonical_name":"Julia 1","first_known_at":"2026-09-28T07:33:18.035455+00:00","id":"entity_7ebaabe2baf20ae4b29b46a31c6e4380","kind":"AI_model","stable_identifier":null}
+{"canonical_name":"ICML, STOC and NeurIPS","first_known_at":"2026-09-28T18:51:01.39905+00:00","id":"entity_80d1a2d4bbc28cc52a8e019db883abc6","kind":"scientific conferences","stable_identifier":null}
+{"canonical_name":"President Trump","first_known_at":"2026-09-28T17:38:50.434027+00:00","id":"entity_9f23c67e10c62c3fb31287ac5adada73","kind":"person","stable_identifier":null}
+{"canonical_name":"random cross-layer attention","first_known_at":"2026-09-28T19:36:04.192379+00:00","id":"entity_b2173f7ff1c9abefa09e11aada044e3f","kind":"machine-learning method","stable_identifier":null}
+{"canonical_name":"Claude","first_known_at":"2026-09-28T07:34:54.709759+00:00","id":"entity_c235eb07147ce2d502a6a2d3d8a05346","kind":"AI_model_family","stable_identifier":null}
+{"canonical_name":"Darío Gil","first_known_at":"2026-09-28T17:30:03.672569+00:00","id":"entity_d4f019915f2192420587348347b575d7","kind":"person","stable_identifier":null}
+{"canonical_name":"DR-Venus paper authors","first_known_at":"2026-09-29T00:02:07.480501+00:00","id":"entity_dd5f0a50ed68d99268e87dddcf40ebc3","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"random cross-layer attention","first_known_at":"2026-09-28T09:33:58.406363+00:00","id":"entity_f5adea4bb7cb66e91b201986f5b20aaa","kind":"training method","stable_identifier":null}

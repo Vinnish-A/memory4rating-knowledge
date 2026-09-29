@@ -1,0 +1,17 @@
+{"created_at":"2026-09-28T07:40:09.364911+00:00","event_kind":"cohort_selection","id":"event_0f04962944f3a10d9b3c273e4ea2e627"}
+{"created_at":"2026-09-28T08:01:13.944099+00:00","event_kind":"model_release","id":"event_2b4d2ffe09a92fa0f4f5232328a13782"}
+{"created_at":"2026-09-28T09:39:32.883655+00:00","event_kind":"model_evaluation","id":"event_30c28dbe9826ed7b8dfa6ade9ff4da29"}
+{"created_at":"2026-09-28T17:25:34.589199+00:00","event_kind":"company_financing_announcement","id":"event_31a4104d65f03b66989c89f5212d154c"}
+{"created_at":"2026-09-28T16:51:29.762625+00:00","event_kind":"AI_agent_real_world_deployment_and_behavior_study","id":"event_3cfabdb63bba71d67bf3b52af72772b7"}
+{"created_at":"2026-09-28T23:39:05.882434+00:00","event_kind":"research_method_proposal_and_evaluation","id":"event_64cee6eae69059b31a475f629187afff"}
+{"created_at":"2026-09-28T23:19:13.433543+00:00","event_kind":"research_method_report","id":"event_6d8a76472bc19106e987804996084cf5"}
+{"created_at":"2026-09-28T07:34:33.49754+00:00","event_kind":"laboratory_establishment","id":"event_6ef000e013ca56be21d3b33073f775e1"}
+{"created_at":"2026-09-28T23:04:38.179097+00:00","event_kind":"research_method_report","id":"event_7821bdcb3bf7b6923e5c8e604cd4076a"}
+{"created_at":"2026-09-28T08:00:40.927125+00:00","event_kind":"model_training_plan","id":"event_794a3b16faf64656e74ec24a22e61225"}
+{"created_at":"2026-09-28T17:44:16.79193+00:00","event_kind":"research_software_and_benchmark_release","id":"event_8bfb55d82b27a8315061672f801db9c4"}
+{"created_at":"2026-09-28T09:25:45.758011+00:00","event_kind":"research_group_and_laboratory_formation","id":"event_9abbac4a3ae5de849f03b200f2b078e2"}
+{"created_at":"2026-09-28T18:08:51.051129+00:00","event_kind":"real_world_AI_agent_deployment_and_observation","id":"event_b8d517090f0ee58c7b8905ae1ff6acd8"}
+{"created_at":"2026-09-28T07:06:29.734708+00:00","event_kind":"model_presentation","id":"event_eb55db41e1ff5d3a1ed776d5a5990943"}
+{"created_at":"2026-09-28T20:24:53.8163+00:00","event_kind":"model_development_and_evaluation_report","id":"event_ef8c3797b5dcbcb762244795a0c49286"}
+{"created_at":"2026-09-28T20:01:01.472398+00:00","event_kind":"research_report","id":"event_f12b5e66d59d33a9547149775706a10b"}
+{"created_at":"2026-09-29T01:52:22.883845+00:00","event_kind":"scientific_workforce_training_plan","id":"event_f3b50eec1e797bf07ea12b8cffbed15a"}
