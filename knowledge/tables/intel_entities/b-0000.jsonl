@@ -1,9 +1,11 @@
 {"canonical_name":"random cross-layer attention","first_known_at":"2026-09-28T07:45:43.347592+00:00","id":"entity_058c5c3beedd6f229b67980d104cecb0","kind":"AI_model_method","stable_identifier":null}
 {"canonical_name":"Ling 2.0","first_known_at":"2026-09-28T23:43:15.891978+00:00","id":"entity_09c9c6a4ed2461ba1121a7926d1d0573","kind":"AI model family","stable_identifier":null}
 {"canonical_name":"St. Jude Children’s Research Hospital","first_known_at":"2026-09-28T21:43:19.852745+00:00","id":"entity_0c27e95c4f4fa8acb2bf94cd994fe53f","kind":"organization","stable_identifier":null}
+{"canonical_name":"韩国科学技术研究院（KAIST）","first_known_at":"2026-09-29T04:29:27.302253+00:00","id":"entity_0df4237fbfa7b6f0767ba6406783f3e5","kind":"organization","stable_identifier":null}
 {"canonical_name":"GPT-5.6 Sol Ultra","first_known_at":"2026-09-28T15:43:03.00179+00:00","id":"entity_43adbb170fa4c5c980c68322578e3bfc","kind":"AI model","stable_identifier":null}
 {"canonical_name":"SpaceXAI","first_known_at":"2026-09-28T15:04:05.269249+00:00","id":"entity_48ce6abc6dfa106c96fd78b44ef95406","kind":"company","stable_identifier":null}
 {"canonical_name":"CaP-X","first_known_at":"2026-09-28T17:42:21.38389+00:00","id":"entity_49e41a45793c6a6d7a762e858177e7ea","kind":"research framework","stable_identifier":null}
+{"canonical_name":"OPD-V paper authors","first_known_at":"2026-09-29T06:46:09.247163+00:00","id":"entity_528a1fd0981e6d0b18f78a3b0fd9fca0","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"AI systems","first_known_at":"2026-09-28T20:27:00.587726+00:00","id":"entity_6045834fb6f9859e2d6e73b3e6cea773","kind":"AI systems","stable_identifier":null}
 {"canonical_name":"Empirical Research Assistance (ERA)","first_known_at":"2026-09-28T22:13:52.592242+00:00","id":"entity_696150213133def05cb9613bc3d3fc24","kind":"AI research system","stable_identifier":null}
 {"canonical_name":"Transformer visualization via dictionary learning paper authors","first_known_at":"2026-09-28T23:04:38.179097+00:00","id":"entity_71fdc892a848100524a2358fba51638d","kind":"researcher group","stable_identifier":null}
@@ -18,5 +20,6 @@
 {"canonical_name":"Yale University","first_known_at":"2026-09-29T03:56:17.001185+00:00","id":"entity_c6790cda6bee1fead00278899150e873","kind":"university","stable_identifier":null}
 {"canonical_name":"Insilico Medicine","first_known_at":"2026-09-28T07:40:22.797917+00:00","id":"entity_cfbc6a6c8b8ed355e8bfc0ca66d6a986","kind":"organization","stable_identifier":"HKEX: 3696"}
 {"canonical_name":"Authors of “AI scientists produce results without reasoning scientifically”","first_known_at":"2026-09-28T14:10:57.637892+00:00","id":"entity_db6e2c33acb34f8ee77f86b6c17dcf6e","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"WindBorne Systems","first_known_at":"2026-09-29T06:35:13.017059+00:00","id":"entity_ea74b2cf471fa4ad5f4399cd08bf974d","kind":"organization","stable_identifier":null}
 {"canonical_name":"Synthetic Sciences","first_known_at":"2026-09-29T03:39:32.59006+00:00","id":"entity_ef1324455ad820c999a5ae61a213f7f8","kind":"organization","stable_identifier":null}
 {"canonical_name":"Coupled Cross-sectional and Longitudinal Non-negative Matrix Factorization (CCL-NMF)","first_known_at":"2026-09-28T22:06:22.485687+00:00","id":"entity_fd6592b97adc304c40bc8099ef75529f","kind":"research method","stable_identifier":null}

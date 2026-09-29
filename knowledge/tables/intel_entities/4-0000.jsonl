@@ -1,10 +1,12 @@
 {"canonical_name":"Authors of the iREPA paper","first_known_at":"2026-09-28T20:08:39.262183+00:00","id":"entity_00a7eb740eccef12ab442861662d86b0","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Massachusetts Institute of Technology (MIT FutureTech)","first_known_at":"2026-09-28T07:38:27.034529+00:00","id":"entity_0af689cf7111285fdd1a94d9b7df3b68","kind":"organization","stable_identifier":null}
+{"canonical_name":"AEWM-RFT","first_known_at":"2026-09-29T06:01:58.882165+00:00","id":"entity_1409308b34b4461fc4c64252ff83dd57","kind":"fine-tuning method","stable_identifier":null}
 {"canonical_name":"Jim Fan","first_known_at":"2026-09-28T17:47:18.946535+00:00","id":"entity_1e17ccccac1f0f192e554b8555205415","kind":"researcher","stable_identifier":null}
 {"canonical_name":"Google DeepMind","first_known_at":"2026-09-28T07:38:27.034529+00:00","id":"entity_2a310d07c8ba0a4641c7c810614411c0","kind":"organization","stable_identifier":null}
 {"canonical_name":"the Ministry’s three AI Bio Innovation Hubs","first_known_at":"2026-09-28T07:43:20.730266+00:00","id":"entity_2c5c5fe04f18373a3f8c19a7b9d75cf9","kind":"organization_group","stable_identifier":null}
 {"canonical_name":"Meta sustainable concrete AI model and pipeline","first_known_at":"2026-09-28T09:22:10.508326+00:00","id":"entity_2ff74df06480fb43eda45ade466a583a","kind":"AI model and pipeline","stable_identifier":null}
 {"canonical_name":"Lund University","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_3643454d977c4a40ea87919d49c3bdaa","kind":"organization","stable_identifier":null}
+{"canonical_name":"Isomorphic Labs","first_known_at":"2026-09-29T04:37:59.867708+00:00","id":"entity_3675debab1e0c6d31e21a3a40cd172d5","kind":"organization","stable_identifier":"https://www.isomorphiclabs.com/"}
 {"canonical_name":"United Nations AI Independent International Scientific Panel","first_known_at":"2026-09-29T03:18:16.006467+00:00","id":"entity_4c2890216eb5d6eb08a39094339135e2","kind":"organization","stable_identifier":null}
 {"canonical_name":"BioNeMo Structure Prediction Pipeline","first_known_at":"2026-09-28T07:10:21.164617+00:00","id":"entity_51195e959f327fc9292c329d523d07ff","kind":"software","stable_identifier":null}
 {"canonical_name":"LFM2.5-VL-3B-DSpark","first_known_at":"2026-09-28T07:36:49.392956+00:00","id":"entity_513697f41edf3fc1579d090646c05db8","kind":"AI_model","stable_identifier":null}
@@ -21,6 +23,10 @@
 {"canonical_name":"President Trump","first_known_at":"2026-09-28T17:38:50.434027+00:00","id":"entity_9f23c67e10c62c3fb31287ac5adada73","kind":"person","stable_identifier":null}
 {"canonical_name":"random cross-layer attention","first_known_at":"2026-09-28T19:36:04.192379+00:00","id":"entity_b2173f7ff1c9abefa09e11aada044e3f","kind":"machine-learning method","stable_identifier":null}
 {"canonical_name":"Claude","first_known_at":"2026-09-28T07:34:54.709759+00:00","id":"entity_c235eb07147ce2d502a6a2d3d8a05346","kind":"AI_model_family","stable_identifier":null}
+{"canonical_name":"Applied Intuition","first_known_at":"2026-09-29T05:40:22.714833+00:00","id":"entity_cc8f35b1b5c153d1e59c5778a1569d94","kind":"organization","stable_identifier":null}
+{"canonical_name":"Public Health Use Case and Learning Scaling Engine (PULSE)","first_known_at":"2026-09-29T05:00:42.762972+00:00","id":"entity_ccc3ffde82ab467f2d0c8c5987719618","kind":"programme","stable_identifier":null}
 {"canonical_name":"Darío Gil","first_known_at":"2026-09-28T17:30:03.672569+00:00","id":"entity_d4f019915f2192420587348347b575d7","kind":"person","stable_identifier":null}
 {"canonical_name":"DR-Venus paper authors","first_known_at":"2026-09-29T00:02:07.480501+00:00","id":"entity_dd5f0a50ed68d99268e87dddcf40ebc3","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"Behnam Neyshabur","first_known_at":"2026-09-29T06:48:01.619366+00:00","id":"entity_dface21dbf505833a1d843e2d82f039b","kind":"person","stable_identifier":null}
+{"canonical_name":"information-efficiency ratio (IER) for sparse on-policy distillation","first_known_at":"2026-09-29T04:06:39.496475+00:00","id":"entity_e8362c8f1a94a0b4e145cc0e4601c5a4","kind":"machine-learning method","stable_identifier":null}
 {"canonical_name":"random cross-layer attention","first_known_at":"2026-09-28T09:33:58.406363+00:00","id":"entity_f5adea4bb7cb66e91b201986f5b20aaa","kind":"training method","stable_identifier":null}

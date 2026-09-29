@@ -1,8 +1,10 @@
 {"created_at":"2026-09-28T20:34:46.221782+00:00","event_kind":"restricted_research_access_program_enrollment","id":"event_099a29177f18f797565add700c75562c"}
 {"created_at":"2026-09-29T00:18:20.923086+00:00","event_kind":"AI research compute infrastructure expansion agreement","id":"event_0a5dc35152ed278c8f1152c9a67cde22"}
 {"created_at":"2026-09-28T07:41:24.631236+00:00","event_kind":"field_deployment","id":"event_3c0ccbd21c96c44c600e4af75c8fa467"}
+{"created_at":"2026-09-29T04:37:59.867708+00:00","event_kind":"research_biosecurity_program_update","id":"event_3d1c5eedd996c98c2b0930af43403d83"}
 {"created_at":"2026-09-28T07:43:20.730266+00:00","event_kind":"facility_establishment_announcement","id":"event_72975da3966c9531759b96ad6d6b0179"}
 {"created_at":"2026-09-28T20:49:58.120655+00:00","event_kind":"research_software_release_announcement","id":"event_8f7b8b1381bc5913785cd55484d4136e"}
+{"created_at":"2026-09-29T06:06:50.120906+00:00","event_kind":"research_method_proposal_and_evaluation","id":"event_8fc6ce6325e340a0791af617de6bdbc1"}
 {"created_at":"2026-09-28T17:47:18.946535+00:00","event_kind":"research_method_report","id":"event_96c379b639953626ea903535fed9ec78"}
 {"created_at":"2026-09-28T23:35:56.452212+00:00","event_kind":"research_method_report","id":"event_a0e6a04454e5171522f6bf4a3e14bdc5"}
 {"created_at":"2026-09-29T02:00:01.709758+00:00","event_kind":"industrial_science_AI_adoption_announcement","id":"event_a235edf72f0a33925f6350dd9861bb1d"}

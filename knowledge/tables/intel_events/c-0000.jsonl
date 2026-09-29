@@ -3,12 +3,15 @@
 {"created_at":"2026-09-28T18:33:12.312063+00:00","event_kind":"research_evaluation_and_training_study","id":"event_52900fe44976c9db3b300c61879da602"}
 {"created_at":"2026-09-28T23:43:15.891978+00:00","event_kind":"model_and_training_infrastructure_release","id":"event_60038bd04ede3a997e6965f2a72a58bf"}
 {"created_at":"2026-09-28T09:09:35.295864+00:00","event_kind":"industrial_application","id":"event_647b23c70b6fd6b70c22b66475e18499"}
+{"created_at":"2026-09-29T05:00:42.762972+00:00","event_kind":"public_health_AI_pilot_program_announcement","id":"event_7150c3ae97fe3f01b9037ea6718d7b15"}
 {"created_at":"2026-09-28T18:23:57.976295+00:00","event_kind":"research_report_and_open_resource_release","id":"event_7649b7627e82e4a8c256a41be6197886"}
 {"created_at":"2026-09-28T21:14:30.461795+00:00","event_kind":"AI model release","id":"event_77efad4be4dedb35519588b4b2267d0e"}
 {"created_at":"2026-09-28T07:35:24.777422+00:00","event_kind":"report_publication","id":"event_7bdd6937742a4b1237376b722ffbd54b"}
+{"created_at":"2026-09-29T05:46:18.165566+00:00","event_kind":"research_method_and_evaluation_report","id":"event_7ccd64f5f1099a6a5da4e43e2fb79f7c"}
 {"created_at":"2026-09-28T07:10:21.164617+00:00","event_kind":"dataset_release","id":"event_7f3c407d9c83ba8f8a4bd4591c6fd67d"}
 {"created_at":"2026-09-28T07:34:25.986574+00:00","event_kind":"commentary","id":"event_844d2ed31bca1a48c7932934c2962bdb"}
 {"created_at":"2026-09-29T03:40:36.814232+00:00","event_kind":"AI-assisted_material_discovery_and_experimental_confirmation","id":"event_8bfc907c192499a067638f4049ed700f"}
+{"created_at":"2026-09-29T06:35:20.207196+00:00","event_kind":"AI_for_science_system_development_announcement","id":"event_a3628232bcce2c884fae322f4c44224f"}
 {"created_at":"2026-09-28T22:06:22.485687+00:00","event_kind":"research_method_proposal_and_evaluation","id":"event_a4196a0db3d2d0ed12a0009cddfcb112"}
 {"created_at":"2026-09-28T19:25:30.907375+00:00","event_kind":"report_publication","id":"event_d8f5f4b410e408d8349c88b29a50ac73"}
 {"created_at":"2026-09-28T17:32:05.072737+00:00","event_kind":"research_infrastructure_description","id":"event_db969c093b1702ddbe72ecaba0e2a1c7"}

@@ -10,7 +10,9 @@
 {"canonical_name":"Seoul National University (SNU)","first_known_at":"2026-09-28T07:43:20.730266+00:00","id":"entity_64ae4bb6a5fc72e5fbc8763fb70167c7","kind":"organization","stable_identifier":null}
 {"canonical_name":"作者（片段未具名）","first_known_at":"2026-09-28T18:39:06.051065+00:00","id":"entity_651ccd8b11d4f98723adddd539b85362","kind":"person","stable_identifier":null}
 {"canonical_name":"NASA","first_known_at":"2026-09-29T02:14:56.153155+00:00","id":"entity_86337a2eab39d57fe2e2d0ab8573c322","kind":"organization","stable_identifier":null}
+{"canonical_name":"Rentosertib","first_known_at":"2026-09-29T05:38:52.167599+00:00","id":"entity_8e15347ef2aef0f55799b530beafa641","kind":"drug candidate","stable_identifier":null}
 {"canonical_name":"DeepSeek-V4-Flash","first_known_at":"2026-09-28T21:31:36.497209+00:00","id":"entity_8ec968a3ae1bac9afefb6f3a479c8a91","kind":"AI model","stable_identifier":null}
+{"canonical_name":"Coalition for Health AI","first_known_at":"2026-09-29T05:00:42.762972+00:00","id":"entity_93b4f83195866106e97f32fae8761533","kind":"organization","stable_identifier":null}
 {"canonical_name":"Korean AI Safety Institute (AISI)","first_known_at":"2026-09-28T17:07:12.829714+00:00","id":"entity_9502d6f17ef3bec39bea1206f1fbe9a6","kind":"research institute","stable_identifier":null}
 {"canonical_name":"地平线 HorizonRobotics","first_known_at":"2026-09-28T08:01:13.944099+00:00","id":"entity_962d50796d2e53649dab237d43983bd4","kind":"organization","stable_identifier":null}
 {"canonical_name":"Mihai Codreanu","first_known_at":"2026-09-28T07:38:27.034529+00:00","id":"entity_a6711866931b5b7de77bf17fd0bf57c2","kind":"person","stable_identifier":null}
@@ -21,4 +23,6 @@
 {"canonical_name":"GPT-5.5","first_known_at":"2026-09-29T00:10:02.406829+00:00","id":"entity_e8241e80fa57e4c4479ed206f5cf7dc3","kind":"AI model","stable_identifier":null}
 {"canonical_name":"iREPA","first_known_at":"2026-09-28T20:08:39.262183+00:00","id":"entity_eaeaaa54c95c4c4154726af680bfe000","kind":"machine-learning method","stable_identifier":null}
 {"canonical_name":"Liquid AI","first_known_at":"2026-09-28T07:36:49.392956+00:00","id":"entity_f45c2eab5269a097b20a1cb13cb19d4b","kind":"organization","stable_identifier":null}
+{"canonical_name":"CEPI","first_known_at":"2026-09-29T04:37:59.867708+00:00","id":"entity_f4c024e195f961e288944be3b751501d","kind":"organization","stable_identifier":null}
+{"canonical_name":"Jev-Mem paper authors","first_known_at":"2026-09-29T04:06:09.014623+00:00","id":"entity_f7948db20cd92adb250aea9897086c17","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Quadrel","first_known_at":"2026-09-28T07:41:24.631236+00:00","id":"entity_f8cf9c0eaa9904280ae9101d2fa33773","kind":"company","stable_identifier":null}

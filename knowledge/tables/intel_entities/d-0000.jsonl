@@ -1,3 +1,4 @@
+{"canonical_name":"paper authors","first_known_at":"2026-09-29T05:46:18.165566+00:00","id":"entity_048b86aa0bba92795a5ed10a78bc0303","kind":"research team","stable_identifier":null}
 {"canonical_name":"Wei Wang","first_known_at":"2026-09-28T15:40:29.491121+00:00","id":"entity_19c4ccf4e696da82f722e35fcf86ad0b","kind":"researcher","stable_identifier":null}
 {"canonical_name":"Harvard Medical School","first_known_at":"2026-09-28T21:43:19.852745+00:00","id":"entity_25723c98ccfbbc9871d48b019fba31ac","kind":"organization","stable_identifier":null}
 {"canonical_name":"教育部","first_known_at":"2026-09-28T07:42:18.544159+00:00","id":"entity_2dafc5aa12e53bc6b77ae8582625c7d4","kind":"government_agency","stable_identifier":null}
@@ -12,16 +13,21 @@
 {"canonical_name":"ARC-AGI-3","first_known_at":"2026-09-29T00:10:02.406829+00:00","id":"entity_761bc6790bcbdee9cf027df096403c23","kind":"AI benchmark","stable_identifier":null}
 {"canonical_name":"Kimi K2.5","first_known_at":"2026-09-28T08:00:40.927125+00:00","id":"entity_770bfc4f91e244de510b1404e5d9d968","kind":"AI_model","stable_identifier":null}
 {"canonical_name":"AFESM","first_known_at":"2026-09-28T07:45:30.803601+00:00","id":"entity_8f8cece4508d11e4fddac4ffd34dd7c7","kind":"dataset","stable_identifier":null}
+{"canonical_name":"Mirendil","first_known_at":"2026-09-29T06:48:01.619366+00:00","id":"entity_90adb429982c8d2fda0d949c31f97ab0","kind":"organization","stable_identifier":null}
 {"canonical_name":"Seoul National University","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_95cea2f69dbbaab97310cd59b69a8c82","kind":"organization","stable_identifier":null}
+{"canonical_name":"Francis Crick Institute","first_known_at":"2026-09-29T04:37:59.867708+00:00","id":"entity_9c483eed76eed1208d00d08959373bde","kind":"research institute","stable_identifier":null}
 {"canonical_name":"Open X-Embodiment","first_known_at":"2026-09-28T07:59:50.485621+00:00","id":"entity_a54bce0843a931bc8b856e8ee7e6034f","kind":"dataset","stable_identifier":null}
 {"canonical_name":"AdaptiveFlow","first_known_at":"2026-09-28T21:43:19.852745+00:00","id":"entity_a7f1d01e3a37d0bfcd7d76cbc91830d1","kind":"research software","stable_identifier":"https://github.com/QuantumAI4Bio"}
+{"canonical_name":"Mathew Hein","first_known_at":"2026-09-29T06:00:26.542674+00:00","id":"entity_b115e9940bbd085e70a3b1d4f3bbfa94","kind":"person","stable_identifier":null}
 {"canonical_name":"AdaptiveFlow","first_known_at":"2026-09-28T21:41:47.815967+00:00","id":"entity_b55bba9ca2a50d4889880c0fc2f538ac","kind":"research_software","stable_identifier":null}
 {"canonical_name":"Twist Bioscience","first_known_at":"2026-09-28T11:24:04.980554+00:00","id":"entity_b6de624dad4271e9cc28d485b23f6fa3","kind":"organization","stable_identifier":null}
 {"canonical_name":"End-to-End Sparse Dictionary Learning paper authors","first_known_at":"2026-09-28T23:39:05.882434+00:00","id":"entity_b87c04ec315bcef6037eae428ba22c58","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Un-0","first_known_at":"2026-09-29T02:49:49.077439+00:00","id":"entity_bd5f484f6884b125ff3f630cf3df219d","kind":"AI image-generation model","stable_identifier":null}
+{"canonical_name":"Authors of “Transformer visualization via dictionary learning” (not named in this chunk)","first_known_at":"2026-09-29T05:44:48.318552+00:00","id":"entity_c5e064efb58a7633776483b40d29d2b1","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Composer 2.5","first_known_at":"2026-09-28T15:04:05.269249+00:00","id":"entity_cbc9bb86a37f167d8c1cd6c10e3beeab","kind":"AI model","stable_identifier":null}
 {"canonical_name":"IT之家","first_known_at":"2026-09-29T03:51:10.000377+00:00","id":"entity_cf4ddcf3687fe49641a8aaa455a2f625","kind":"publisher","stable_identifier":null}
 {"canonical_name":"ferroptosis suppressor protein 1 (FSP1)","first_known_at":"2026-09-28T21:41:47.815967+00:00","id":"entity_d01021b6803a4c277d770d04e5596e43","kind":"biological_target","stable_identifier":null}
+{"canonical_name":"AMD","first_known_at":"2026-09-29T06:00:26.542674+00:00","id":"entity_d4ebf1a479cdfc30a36990402d76565f","kind":"organization","stable_identifier":null}
 {"canonical_name":"Open-source crosscoder model-diff replication","first_known_at":"2026-09-28T22:56:12.601912+00:00","id":"entity_dda461b0a697f9d1005c145d4d7e566a","kind":"research_software","stable_identifier":"https://github.com/ckkissane/crosscoder-model-diff-replication"}
 {"canonical_name":"array-associated reverse transcriptases (ART)","first_known_at":"2026-09-28T09:25:45.758011+00:00","id":"entity_e4e2c441b8876111708df5ca20e064d8","kind":"biological system","stable_identifier":null}
 {"canonical_name":"Fugu","first_known_at":"2026-09-29T02:22:30.851033+00:00","id":"entity_f74c95811ae55d0ea4e87f0f64112f0e","kind":"AI system","stable_identifier":null}

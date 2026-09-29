@@ -1,6 +1,7 @@
 {"canonical_name":"Dedicated Feature Crosscoder (DFC)","first_known_at":"2026-09-28T22:48:24.821247+00:00","id":"entity_033b4616e70dc21f7b7a4adafca8c981","kind":"machine-learning method","stable_identifier":null}
 {"canonical_name":"Supersonic Labs","first_known_at":"2026-09-28T07:33:18.035455+00:00","id":"entity_05164d4b8cca007f15fb61423cad93ff","kind":"organization","stable_identifier":null}
 {"canonical_name":"LFM2.5-VL-3B","first_known_at":"2026-09-28T07:36:49.392956+00:00","id":"entity_090d39a75edc9a1be5e6bf46eedd6256","kind":"AI_model","stable_identifier":null}
+{"canonical_name":"AT&T","first_known_at":"2026-09-29T05:55:14.193703+00:00","id":"entity_09c3d12fa60e438002762ae467b99acc","kind":"organization","stable_identifier":null}
 {"canonical_name":"研究团队（摘要未注明）","first_known_at":"2026-09-28T07:38:27.090186+00:00","id":"entity_0ac23030abb68bf1aae38f41bb318039","kind":"research_team","stable_identifier":null}
 {"canonical_name":"Claude Sonnet 4.5","first_known_at":"2026-09-28T07:33:48.878933+00:00","id":"entity_1306d4362fd911bfad16e50fdc60cd39","kind":"AI_model","stable_identifier":null}
 {"canonical_name":"Unconditional Unclonable Encryption","first_known_at":"2026-09-28T15:49:31.582858+00:00","id":"entity_1e39bb41e4847f0f92df5d1cae350924","kind":"scientific paper","stable_identifier":null}
@@ -11,20 +12,27 @@
 {"canonical_name":"Sakana AI","first_known_at":"2026-09-29T02:22:30.851033+00:00","id":"entity_39c46a3e7b8fc8e858213cbf6a58264a","kind":"organization","stable_identifier":null}
 {"canonical_name":"DeepSeek-V4-Pro","first_known_at":"2026-09-28T07:39:10.718499+00:00","id":"entity_3fbf5d47ab3f126fa02cf3aa601d7253","kind":"AI_model","stable_identifier":null}
 {"canonical_name":"The Genesis Mission","first_known_at":"2026-09-28T17:37:05.654151+00:00","id":"entity_41786bbff9ba4211f72153457d302696","kind":"research initiative","stable_identifier":null}
+{"canonical_name":"UK AI Security Institute","first_known_at":"2026-09-29T04:37:59.867708+00:00","id":"entity_4e4e8e14b70488d8935108856766f884","kind":"organization","stable_identifier":null}
 {"canonical_name":"CaP-Agent0","first_known_at":"2026-09-28T17:42:21.38389+00:00","id":"entity_4e93e9479eba43da1498fb4ccf3621bb","kind":"robot control framework","stable_identifier":null}
 {"canonical_name":"Cell2Sentence-Scale","first_known_at":"2026-09-29T03:56:17.001185+00:00","id":"entity_553cf78edcb220d763950ae273fea8e9","kind":"AI research model","stable_identifier":null}
 {"canonical_name":"Korean AI Safety Institute (AISI)","first_known_at":"2026-09-28T07:43:20.730266+00:00","id":"entity_70eb2bc9420e4d16fcfbe3b0fd39a00b","kind":"organization","stable_identifier":null}
 {"canonical_name":"Authors of A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference","first_known_at":"2026-09-28T19:45:22.603823+00:00","id":"entity_770bd07011b6ccf4dc49eb072cd0d7e4","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"David Siegel","first_known_at":"2026-09-29T04:30:17.029225+00:00","id":"entity_7799e1d15b8c643403969c99478569e4","kind":"person","stable_identifier":null}
 {"canonical_name":"Seoul National University (SNU)","first_known_at":"2026-09-28T17:07:12.829714+00:00","id":"entity_79ffb89508118c2f9709a3b761321c65","kind":"research institution","stable_identifier":null}
 {"canonical_name":"Swiss Institute of Bioinformatics (SIB)","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_7e870b93609a8d9bba55966b7a0fdb59","kind":"organization","stable_identifier":null}
 {"canonical_name":"Over 100 institutions collaborating with Google","first_known_at":"2026-09-28T18:51:01.39905+00:00","id":"entity_7f147042c24882d542b4a0e7132f3a18","kind":"research collaboration participants","stable_identifier":null}
+{"canonical_name":"Anthropic","first_known_at":"2026-09-29T05:27:49.608171+00:00","id":"entity_8ba22ba68207fb1bb0f3d22be5759708","kind":"organization","stable_identifier":"https://www.anthropic.com/"}
 {"canonical_name":"CaP-RL","first_known_at":"2026-09-28T17:42:21.38389+00:00","id":"entity_9846d8ca3f5cb1acc87cec784f67d85c","kind":"reinforcement-learning framework","stable_identifier":null}
 {"canonical_name":"MirrorCode","first_known_at":"2026-09-29T02:53:02.016223+00:00","id":"entity_a2d94bf74bc7d56bf8459b8e207862fb","kind":"AI coding benchmark","stable_identifier":"https://github.com/epoch-research/MirrorCode/"}
 {"canonical_name":"CaP-X paper authors","first_known_at":"2026-09-28T17:42:21.38389+00:00","id":"entity_a6c15882c8d67293a0e92616eb0536ba","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"ARGenSeg paper authors","first_known_at":"2026-09-29T06:06:50.120906+00:00","id":"entity_beb4773df7753034776c429ae8d513d2","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"IT之家","first_known_at":"2026-09-29T02:00:01.709758+00:00","id":"entity_cc9fbbb682fcbcfed53f11804c1e0504","kind":"media organization","stable_identifier":null}
 {"canonical_name":"Artificial Intelligence-related health research: ethics review and oversight","first_known_at":"2026-09-28T07:35:24.777422+00:00","id":"entity_cf05d8827bf03939129cd76f429a0994","kind":"report","stable_identifier":null}
+{"canonical_name":"Harness-Zero paper authors","first_known_at":"2026-09-29T04:03:30.321085+00:00","id":"entity_e4a7431f95d9b50ede5b7641f1bf89fb","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"GLM-5.2","first_known_at":"2026-09-29T06:32:24.430837+00:00","id":"entity_e8ea481add80f9f49a38ce6335c45722","kind":"AI model","stable_identifier":null}
 {"canonical_name":"火山引擎（Volcano Engine）","first_known_at":"2026-09-28T07:46:12.814356+00:00","id":"entity_ed5ef97847895067f51bca2bc300fcf2","kind":"organization","stable_identifier":null}
 {"canonical_name":"University of Illinois at Urbana-Champaign","first_known_at":"2026-09-28T07:41:24.631236+00:00","id":"entity_edba99e93f57a03548dbeaaa9d503cd7","kind":"organization","stable_identifier":null}
 {"canonical_name":"paper authors","first_known_at":"2026-09-28T15:49:31.582858+00:00","id":"entity_f5edd984046090e78f71f6c7c7a2637e","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Claude 3 Sonnet","first_known_at":"2026-09-28T10:12:52.567204+00:00","id":"entity_f788c186d9b6e12d6775e953e991a6fb","kind":"AI model","stable_identifier":null}
 {"canonical_name":"自动化人工智能研究员","first_known_at":"2026-09-29T02:00:33.339992+00:00","id":"entity_f87e7c2286c9eb5787ee0c9e07a69490","kind":"AI research system","stable_identifier":null}
+{"canonical_name":"Jev-Mem","first_known_at":"2026-09-29T04:06:09.014623+00:00","id":"entity_fdd90b983908a198cbef8898ae1c87c2","kind":"AI agent memory architecture","stable_identifier":null}

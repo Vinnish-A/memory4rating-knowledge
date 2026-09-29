@@ -1,10 +1,12 @@
 {"created_at":"2026-09-28T20:08:39.262183+00:00","event_kind":"research_report","id":"event_03864588b4bb0b50f8b48e790b5b33b6"}
 {"created_at":"2026-09-28T15:04:05.269249+00:00","event_kind":"model_release","id":"event_09fba61dc18c60386b7133413088e858"}
+{"created_at":"2026-09-29T06:16:31.8663+00:00","event_kind":"research_method_proposal_and_evaluation_report","id":"event_1e7227147573f3fa059099fd6b298f07"}
 {"created_at":"2026-09-28T21:25:01.995193+00:00","event_kind":"research_collaboration_announcement","id":"event_2a7c4207f4046a734bc6637fa9c3ae4c"}
 {"created_at":"2026-09-28T19:41:28.471517+00:00","event_kind":"research_report","id":"event_3022d43911075185d8669ff05a907746"}
 {"created_at":"2026-09-28T18:35:28.457563+00:00","event_kind":"dataset_release","id":"event_418a977e445950c141d4e941ef1d5afa"}
 {"created_at":"2026-09-28T19:56:14.803844+00:00","event_kind":"research_method_and_evaluation_report","id":"event_591143f4e86722638a079e8b764a7143"}
 {"created_at":"2026-09-29T03:12:03.142382+00:00","event_kind":"research_platform_release","id":"event_6873c2cc8a25107887a6106a86452a18"}
+{"created_at":"2026-09-29T06:46:09.247163+00:00","event_kind":"research_method_and_evaluation_report","id":"event_7216867dbf4d91eba1397028350f327d"}
 {"created_at":"2026-09-28T23:07:32.277268+00:00","event_kind":"research_software_release","id":"event_72a915991b8eade74f470d0a53fa5ca6"}
 {"created_at":"2026-09-28T15:20:28.81292+00:00","event_kind":"model_release","id":"event_7f66f171710d59d8505f42c6c4cd53e7"}
 {"created_at":"2026-09-28T19:46:20.577008+00:00","event_kind":"research_method_report","id":"event_8f8950104046b614dfd9f7925d09b2b4"}

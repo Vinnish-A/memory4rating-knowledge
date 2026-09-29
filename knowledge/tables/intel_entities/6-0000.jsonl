@@ -11,10 +11,14 @@
 {"canonical_name":"SimpleDesign","first_known_at":"2026-09-28T07:06:29.734708+00:00","id":"entity_7f84d2cfacae44391f877e3846bab3ec","kind":"AI_model","stable_identifier":null}
 {"canonical_name":"Mortenson","first_known_at":"2026-09-28T07:41:24.631236+00:00","id":"entity_83d6c206873f42d085c809caaa7a1309","kind":"organization","stable_identifier":null}
 {"canonical_name":"Microbial Molecular Phenotyping Capability (M2PC)","first_known_at":"2026-09-28T16:39:42.228534+00:00","id":"entity_84731cc1015bdcc1cbea64ee6e32ff5b","kind":"planned research infrastructure","stable_identifier":null}
+{"canonical_name":"Action Judge benchmark","first_known_at":"2026-09-29T06:01:58.882165+00:00","id":"entity_8af0d919049de96eeec88ae16d569319","kind":"benchmark","stable_identifier":null}
+{"canonical_name":"Low-Rank Sparse Attention (Lorsa)","first_known_at":"2026-09-29T05:46:18.165566+00:00","id":"entity_8b848b446012ce404d634997103732ba","kind":"attention decomposition method","stable_identifier":null}
+{"canonical_name":"D-Wave","first_known_at":"2026-09-29T05:55:14.193703+00:00","id":"entity_8fae85fe327b5d82381adcc7c8f7ba06","kind":"company","stable_identifier":null}
 {"canonical_name":"Meta AI model for concrete mix optimization","first_known_at":"2026-09-28T09:15:56.502863+00:00","id":"entity_a3197092053212e7db418e8473158898","kind":"model","stable_identifier":null}
 {"canonical_name":"Information Bottleneck Adapter (IB-Adapter)","first_known_at":"2026-09-28T07:59:50.485621+00:00","id":"entity_a4c54680521643597a27d4f0997fb493","kind":"method","stable_identifier":null}
 {"canonical_name":"Adaptyv Bio","first_known_at":"2026-09-28T11:24:04.980554+00:00","id":"entity_b0b12d0a70f0cfafd1f9ac81f00bbeb4","kind":"organization","stable_identifier":null}
 {"canonical_name":"SupportNet","first_known_at":"2026-09-29T03:24:29.369915+00:00","id":"entity_c42c01631a8d19e8b210d6d96cbad84d","kind":"machine-learning model","stable_identifier":null}
+{"canonical_name":"Lawrence Livermore National Laboratory","first_known_at":"2026-09-29T04:37:59.867708+00:00","id":"entity_c490911a60677ea9244c92b0be972d22","kind":"research laboratory","stable_identifier":null}
 {"canonical_name":"Empirical Research Assistance (ERA)","first_known_at":"2026-09-28T22:21:38.765807+00:00","id":"entity_c71b8c7a282942f364918935e9dce6f5","kind":"AI system","stable_identifier":null}
 {"canonical_name":"Berkeley Artificial Intelligence Research (BAIR) Lab","first_known_at":"2026-09-29T03:19:00.323716+00:00","id":"entity_cd11de83e9de24a64651fc067538df72","kind":"research organization","stable_identifier":null}
 {"canonical_name":"论文作者","first_known_at":"2026-09-28T23:19:13.433543+00:00","id":"entity_cee956df12d4c8f59a9f388dcb64aa54","kind":"researcher group","stable_identifier":null}
@@ -22,6 +26,8 @@
 {"canonical_name":"SwissProt","first_known_at":"2026-09-28T07:45:30.803601+00:00","id":"entity_d10e779a2865b936385df0ecad7d4fc0","kind":"dataset","stable_identifier":null}
 {"canonical_name":"Amazon Web Services","first_known_at":"2026-09-29T03:16:07.821089+00:00","id":"entity_d53dafd3005cbd38d3901789680d3fdd","kind":"company","stable_identifier":null}
 {"canonical_name":"EDEN","first_known_at":"2026-09-28T17:25:34.589199+00:00","id":"entity_d9e2b9e6de1eb6edab83ade8ec424f2e","kind":"biological foundation model","stable_identifier":null}
+{"canonical_name":"Alphabet","first_known_at":"2026-09-29T06:38:38.356404+00:00","id":"entity_d9f12bf83f185a345e0e213478dba530","kind":"organization","stable_identifier":null}
+{"canonical_name":"EditAct","first_known_at":"2026-09-29T06:01:58.882165+00:00","id":"entity_ea8629d5cb2b2bb74fd3514d7607f340","kind":"AI agent system","stable_identifier":null}
 {"canonical_name":"LLM-based scientific agents","first_known_at":"2026-09-28T14:10:57.637892+00:00","id":"entity_eae4e09678d31a6f7a4b74e471f2162f","kind":"AI system class","stable_identifier":null}
 {"canonical_name":"Opus 4.7","first_known_at":"2026-09-29T00:10:02.406829+00:00","id":"entity_ec59fc7061184aa549b2c778b45c823f","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Ling-V2 training framework and FP8 training solution","first_known_at":"2026-09-28T23:43:15.891978+00:00","id":"entity_ecdcf9e71c6b07fe30f09025dc2f2eaa","kind":"training framework and solution","stable_identifier":null}

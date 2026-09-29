@@ -1,4 +1,6 @@
+{"canonical_name":"SaferAI","first_known_at":"2026-09-29T06:32:24.430837+00:00","id":"entity_026214548e71e9eb833cd41167813610","kind":"organization","stable_identifier":null}
 {"canonical_name":"Coalition for Epidemic Preparedness Innovations (CEPI)","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_073cfd6e505774d6358488c3a4e6086e","kind":"organization","stable_identifier":null}
+{"canonical_name":"Agent-Editing World Model (AEWM)","first_known_at":"2026-09-29T06:01:58.882165+00:00","id":"entity_0e0a0ca719b68c8f8f0fd5a8a445a7db","kind":"AI agent method","stable_identifier":null}
 {"canonical_name":"Andon Market convenience store","first_known_at":"2026-09-28T10:56:51.933601+00:00","id":"entity_0f3779775d1922f0ace2b4f5dd0a4274","kind":"retail store","stable_identifier":null}
 {"canonical_name":"World Economic Forum","first_known_at":"2026-09-28T07:40:09.364911+00:00","id":"entity_152b56e8f89c9efe170efa8885c9c653","kind":"organization","stable_identifier":null}
 {"canonical_name":"Google DeepMind Accelerator program in APAC (“AI for the Planet”)","first_known_at":"2026-09-29T01:54:38.041442+00:00","id":"entity_159c393d44a12cc5f24e8c44ff5b0650","kind":"research accelerator program","stable_identifier":null}
@@ -6,8 +8,11 @@
 {"canonical_name":"Indian Council of Medical Research","first_known_at":"2026-09-28T11:07:29.623177+00:00","id":"entity_218239994584fd356f1af8a4c2371ec3","kind":"organization","stable_identifier":null}
 {"canonical_name":"Google Cloud","first_known_at":"2026-09-29T00:16:05.724211+00:00","id":"entity_34b77ba8a1ec5fb0d39d582c2781c314","kind":"organization","stable_identifier":null}
 {"canonical_name":"CommonKV","first_known_at":"2026-09-28T19:46:20.577008+00:00","id":"entity_36dc4a333df58d8f2db7364a2840f606","kind":"AI model method","stable_identifier":null}
+{"canonical_name":"Metis paper authors (not identified in abstract)","first_known_at":"2026-09-29T06:16:31.8663+00:00","id":"entity_51ca10d04bff63226eb27f2bf4dcd0fa","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"AI Campus","first_known_at":"2026-09-28T07:43:20.730266+00:00","id":"entity_5e9502512a013a4530b6514446d9deb9","kind":"research_facility","stable_identifier":null}
 {"canonical_name":"Claude Opus 5","first_known_at":"2026-09-29T01:17:55.67693+00:00","id":"entity_669f2fe5c787e78585729f1557abd2c1","kind":"AI model","stable_identifier":null}
+{"canonical_name":"Self-SpectraReward","first_known_at":"2026-09-29T04:20:37.051087+00:00","id":"entity_695804a9c21ec7f8898aa2c84d26927c","kind":"research method","stable_identifier":null}
+{"canonical_name":"cellcentric","first_known_at":"2026-09-29T05:42:06.281734+00:00","id":"entity_72ba2e08e8eb8f1763bf09abde7b75ca","kind":"organization","stable_identifier":null}
 {"canonical_name":"NVIDIA cuLitho","first_known_at":"2026-09-29T02:00:01.709758+00:00","id":"entity_7b97ec391cfd81ef05dbd19b014c54cc","kind":"GPU-accelerated computing library","stable_identifier":null}
 {"canonical_name":"Proteinbase","first_known_at":"2026-09-28T09:32:19.435078+00:00","id":"entity_88adef4eeef5b16f25b9eaf1032fbfde","kind":"dataset","stable_identifier":null}
 {"canonical_name":"autonomous research system described by Tim Dettmers","first_known_at":"2026-09-29T01:52:22.883845+00:00","id":"entity_8a0fc660e2b6f9794bc320e9f787dce7","kind":"AI research system","stable_identifier":null}

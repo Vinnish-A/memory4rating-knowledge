@@ -1,8 +1,12 @@
 {"canonical_name":"Paper Assistant Tool (PAT)","first_known_at":"2026-09-29T02:57:28.891873+00:00","id":"entity_00d0e4edf9ecba3340c62d2d07ccf6cb","kind":"AI research tool","stable_identifier":null}
 {"canonical_name":"MRPO paper authors","first_known_at":"2026-09-29T03:29:32.770834+00:00","id":"entity_00f15f46a1aa4db0b0ab61b1b3e92db0","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"未具名数学模型（报道描述）","first_known_at":"2026-09-29T02:09:06.811655+00:00","id":"entity_0930bad159495b6f2ab7dabf53a05829","kind":"AI model","stable_identifier":null}
+{"canonical_name":"Google DeepMind","first_known_at":"2026-09-29T04:37:59.867708+00:00","id":"entity_0f843c708970a9a305aec8a280d064c3","kind":"organization","stable_identifier":"https://deepmind.google/"}
+{"canonical_name":"Andon Labs","first_known_at":"2026-09-29T05:27:49.608171+00:00","id":"entity_2e907ea12e6e4cbf55c6971f063a2564","kind":"organization","stable_identifier":"https://andonlabs.com/"}
 {"canonical_name":"Coupled CCL-NMF study authors","first_known_at":"2026-09-28T22:06:22.485687+00:00","id":"entity_3578aa9c4c4ccd400ff04828f2b8032e","kind":"research group","stable_identifier":null}
+{"canonical_name":"《智能体互信互联互操作全球合作倡议》","first_known_at":"2026-09-29T04:40:17.923717+00:00","id":"entity_3b29e4b8244c538ec8a87e00f89951b4","kind":"policy initiative","stable_identifier":null}
 {"canonical_name":"SimpleDesign paper authors","first_known_at":"2026-09-28T09:39:32.883655+00:00","id":"entity_4384a1d11f2a293602857d3f949895db","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"Dunia","first_known_at":"2026-09-29T05:36:44.744124+00:00","id":"entity_523b556d2fafd037538e0748295eec10","kind":"organization","stable_identifier":null}
 {"canonical_name":"Novo Nordisk","first_known_at":"2026-09-28T07:37:48.931661+00:00","id":"entity_5ee3d93806e0db16f1b6b3a086cf37f4","kind":"organization","stable_identifier":null}
 {"canonical_name":"Claude Science","first_known_at":"2026-09-28T21:26:27.725322+00:00","id":"entity_65343a6e83fbd7c702baa8c004a7d812","kind":"AI research tool","stable_identifier":null}
 {"canonical_name":"Eric Kauderer-Abrams","first_known_at":"2026-09-28T21:04:57.035686+00:00","id":"entity_765f7203ca84e252b59c170aa7ede038","kind":"person","stable_identifier":null}
@@ -12,6 +16,7 @@
 {"canonical_name":"Anastasiia Filippova","first_known_at":"2026-09-28T19:03:15.994075+00:00","id":"entity_a5339f16faca3e253012199419aed93f","kind":"researcher","stable_identifier":null}
 {"canonical_name":"Research mathematics community","first_known_at":"2026-09-28T15:35:43.783399+00:00","id":"entity_aaeb56a7147caf3d2e080dc634ef71d4","kind":"research_community","stable_identifier":null}
 {"canonical_name":"SimpleDesign","first_known_at":"2026-09-28T09:39:32.883655+00:00","id":"entity_aec9313952d00dde6ce96d7587891571","kind":"AI protein-design model","stable_identifier":null}
+{"canonical_name":"论文作者（此chunk未列名）","first_known_at":"2026-09-29T06:28:44.226454+00:00","id":"entity_b6dc20bfa2c3e65cd056136085ca215c","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"AlphaFold Database","first_known_at":"2026-09-28T14:28:26.691206+00:00","id":"entity_b93d2405b270dbf16c00efc6f81fae17","kind":"scientific database","stable_identifier":null}
 {"canonical_name":"BioNeMo Structure Prediction Pipeline","first_known_at":"2026-09-28T14:49:22.836463+00:00","id":"entity_c8a465514f6b183c6b479202a9f33a8e","kind":"research software","stable_identifier":null}
 {"canonical_name":"An open benchmark and language models for AI in aging biology","first_known_at":"2026-09-28T07:40:22.797917+00:00","id":"entity_c9cab0390282afe47378936c1728c3d1","kind":"publication","stable_identifier":"doi:10.1016/j.cell.2026.08.026"}

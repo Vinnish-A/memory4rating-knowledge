@@ -2,7 +2,10 @@
 {"created_at":"2026-09-28T09:22:10.508326+00:00","event_kind":"model_development","id":"event_1c9881fdd39e95e416beed79f6f2dd28"}
 {"created_at":"2026-09-28T07:40:52.345344+00:00","event_kind":"research_finding","id":"event_545a353f47fe338bd27a696fe13b5153"}
 {"created_at":"2026-09-29T01:33:39.766351+00:00","event_kind":"AI_assisted_biological_discovery_report","id":"event_57e0ebc3f56c40f1faf2cebeeb6cbae2"}
+{"created_at":"2026-09-29T05:33:07.108524+00:00","event_kind":"research_infrastructure_formation","id":"event_62bbdd40761b85698d84fb56d1935930"}
 {"created_at":"2026-09-28T07:37:48.931661+00:00","event_kind":"laboratory_establishment","id":"event_715048c4bb7685817b07afcce26e53e7"}
+{"created_at":"2026-09-29T04:07:02.00799+00:00","event_kind":"research_method_and_evaluation_report","id":"event_7367985bd33a8bd1abd88f755caa7900"}
+{"created_at":"2026-09-29T04:06:09.014623+00:00","event_kind":"research_method_and_evaluation_report","id":"event_8cd13f2c7a8d2db0818ac88f6ceee15e"}
 {"created_at":"2026-09-28T07:41:24.631236+00:00","event_kind":"software_adoption","id":"event_c72fb5e6467c63dffd578cab139d47e4"}
 {"created_at":"2026-09-29T03:55:08.139231+00:00","event_kind":"AI_model_release","id":"event_d27e1cea6972967b349280a803dd9b83"}
 {"created_at":"2026-09-29T01:17:55.67693+00:00","event_kind":"AI_assisted_analytical_chemistry_evaluation","id":"event_dd2bb580dceac822fb6ea649315d40ac"}

@@ -14,7 +14,9 @@
 {"created_at":"2026-09-28T07:10:21.164617+00:00","event_kind":"software_release","id":"event_b0cd3fac9fc0d5ca9df431d8fe394fad"}
 {"created_at":"2026-09-28T11:07:29.623177+00:00","event_kind":"research_ethics_guideline_publication","id":"event_b566877400c4dcfa719c48a0f79a898b"}
 {"created_at":"2026-09-28T07:40:22.797917+00:00","event_kind":"research_publication","id":"event_b867534414f21d20c6d972969906d9c3"}
+{"created_at":"2026-09-29T04:34:05.869056+00:00","event_kind":"research_and_biosecurity_partnership_program_report","id":"event_c6ff432f916814d54527b681b8a347a6"}
 {"created_at":"2026-09-28T21:31:36.497209+00:00","event_kind":"research_model_preview_and_evaluation_report","id":"event_d75d5fcfa4df4093073439e968a07cbc"}
 {"created_at":"2026-09-28T22:21:38.765807+00:00","event_kind":"research_system_development_and_evaluation_report","id":"event_da8e28644b4b14b7aac1393701642f9d"}
 {"created_at":"2026-09-28T07:41:24.631236+00:00","event_kind":"dataset_release","id":"event_ed472c948fee86139a235d2ce2e83217"}
 {"created_at":"2026-09-28T20:27:00.587726+00:00","event_kind":"AI_assisted_scientific_writing","id":"event_ef0561afede04f5af5ec9a2cdf784ab4"}
+{"created_at":"2026-09-29T04:13:24.615904+00:00","event_kind":"AI_model_release","id":"event_fa44d4a7f7cc2f470c149047c9769ac4"}

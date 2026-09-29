@@ -1,5 +1,7 @@
 {"created_at":"2026-09-29T03:39:32.59006+00:00","event_kind":"scientific_research_software_release_report","id":"event_02df4a30059105fa9e4c80e0400183a2"}
+{"created_at":"2026-09-29T04:30:17.029225+00:00","event_kind":"policy_recommendation","id":"event_187ff9c58fb6de081e0fc1fa047161da"}
 {"created_at":"2026-09-29T02:54:32.777146+00:00","event_kind":"model_development_and_evaluation_report","id":"event_1d3b0072b0ecbc810683a6552c383292"}
+{"created_at":"2026-09-29T05:34:13.949599+00:00","event_kind":"scientific_software_tutorial","id":"event_1e18d633956cf0ef21eb2feaf402c197"}
 {"created_at":"2026-09-28T19:47:58.519773+00:00","event_kind":"research_method_development_and_evaluation_report","id":"event_2b7f67d8ee90f4ff92512475528f2375"}
 {"created_at":"2026-09-29T02:30:58.836478+00:00","event_kind":"research_infrastructure_establishment","id":"event_323075ff2d11f2d769e277c742f69a91"}
 {"created_at":"2026-09-29T01:52:22.883845+00:00","event_kind":"research_software_method_report","id":"event_37053d529760ce20d3bada9423d25cee"}
@@ -7,8 +9,12 @@
 {"created_at":"2026-09-28T16:49:36.280285+00:00","event_kind":"real_world_AI_agent_deployment_and_behavior_study","id":"event_416a7472f5b16c89cd853575153514a8"}
 {"created_at":"2026-09-28T17:23:58.495022+00:00","event_kind":"model_and_dataset_release","id":"event_5ce73f34c9db40c4ee0117ad7212e666"}
 {"created_at":"2026-09-29T02:09:06.811655+00:00","event_kind":"scientific_advisory_group_formation","id":"event_6ce862a2976675d18ce93c5e4c8e50c8"}
+{"created_at":"2026-09-29T06:00:26.542674+00:00","event_kind":"AI_infrastructure_partnership_agreement","id":"event_86e3e1b7ffd2886783327cc187555056"}
 {"created_at":"2026-09-28T19:33:33.594838+00:00","event_kind":"model_release_and_evaluation_report","id":"event_887a61d8ac71fab2684f522b74b9b2c5"}
 {"created_at":"2026-09-29T02:05:31.203691+00:00","event_kind":"research_advisory_group_formation","id":"event_a06f3cb6d2a05740c89bcb5ada09ad4e"}
 {"created_at":"2026-09-28T07:41:24.631236+00:00","event_kind":"model_release","id":"event_a879fe3f88885657b36ffe6facd6acf8"}
 {"created_at":"2026-09-28T14:10:57.637892+00:00","event_kind":"research_evaluation","id":"event_b445155f42084a206392f4ee98eed492"}
+{"created_at":"2026-09-29T04:57:31.565772+00:00","event_kind":"AI research infrastructure announcement","id":"event_b5d9438cae864f76cb2856deeb28b89d"}
+{"created_at":"2026-09-29T06:48:01.619366+00:00","event_kind":"scientific_research_compute_infrastructure_partnership_announcement","id":"event_c61dc3aeb23501ccc4db596438a9f922"}
 {"created_at":"2026-09-28T22:46:05.181938+00:00","event_kind":"research_method_proposal_and_evaluation","id":"event_da32e67e044f11f35204156044250171"}
+{"created_at":"2026-09-29T05:16:23.435866+00:00","event_kind":"scientific_research_program_launch","id":"event_dc8ac94c673245772a5474c1e2ab5902"}

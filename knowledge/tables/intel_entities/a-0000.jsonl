@@ -3,6 +3,7 @@
 {"canonical_name":"Anthropic wet biology lab (Bay Area)","first_known_at":"2026-09-28T21:04:57.035686+00:00","id":"entity_0d77b0f04c5ca259dc124db43c7a7a00","kind":"research laboratory","stable_identifier":null}
 {"canonical_name":"Science Skills","first_known_at":"2026-09-28T18:51:01.39905+00:00","id":"entity_1202c6ffff5f8b06d1f73bf8a86905a8","kind":"scientific software bundle","stable_identifier":null}
 {"canonical_name":"Department of Biochemistry & Molecular Biology (BMB)","first_known_at":"2026-09-28T07:39:05.061489+00:00","id":"entity_1324b1a3f7d34b7582e51a3125611038","kind":"organization","stable_identifier":null}
+{"canonical_name":"SpectraReward","first_known_at":"2026-09-29T04:20:37.051087+00:00","id":"entity_1b5b2661c3e59cb6c19fe78b657e2f9c","kind":"research method","stable_identifier":null}
 {"canonical_name":"Cross-Layer Attention (CLA)","first_known_at":"2026-09-28T19:41:28.471517+00:00","id":"entity_231aae0067af645c4c2f74963cdf6740","kind":"attention method","stable_identifier":null}
 {"canonical_name":"University of Bristol researchers","first_known_at":"2026-09-29T01:53:37.864864+00:00","id":"entity_40f03d13364acbe32da80f5503c37fe1","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"University of Pavia","first_known_at":"2026-09-28T21:43:19.852745+00:00","id":"entity_4bb4e5f882b53e853db2d56b5a2e1352","kind":"organization","stable_identifier":null}
@@ -12,6 +13,7 @@
 {"canonical_name":"CaP-Bench","first_known_at":"2026-09-28T17:42:21.38389+00:00","id":"entity_62fcc3b95d54664b03c0f7297cb1e623","kind":"benchmark","stable_identifier":null}
 {"canonical_name":"Institute for Advanced Study","first_known_at":"2026-09-29T01:50:57.221085+00:00","id":"entity_6d3fd329d07b811e22a6c0373bc10bfd","kind":"research institute","stable_identifier":null}
 {"canonical_name":"Tim Dettmers","first_known_at":"2026-09-29T01:52:22.883845+00:00","id":"entity_6e1f7732d596e5d0e4c133f1d1da3a60","kind":"researcher","stable_identifier":null}
+{"canonical_name":"KAIST 与成均馆大学联合研究团队","first_known_at":"2026-09-29T04:29:27.302253+00:00","id":"entity_6ea45c183315994a2465282204ebcc05","kind":"research team","stable_identifier":null}
 {"canonical_name":"CommonKV paper authors","first_known_at":"2026-09-28T19:46:20.577008+00:00","id":"entity_7665ec7af1ee83884e97ec8fcaa5a4c4","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Claude Mythos Preview","first_known_at":"2026-09-28T09:32:19.435078+00:00","id":"entity_8245fb6884fa20695d5796fe9812cabb","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Claude Sonnet 4.5","first_known_at":"2026-09-28T20:01:01.472398+00:00","id":"entity_8d69dd9c194c899021384117d292cba8","kind":"AI model","stable_identifier":null}
@@ -24,9 +26,11 @@
 {"canonical_name":"Cross-Layer Attention paper authors","first_known_at":"2026-09-28T19:40:20.03921+00:00","id":"entity_b6a527d69d75f8df461f473b11f9866d","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"NVIDIA cuEST","first_known_at":"2026-09-29T02:00:01.709758+00:00","id":"entity_b96ce1041975d8af3c907d16071ddc27","kind":"electronic-structure simulation library","stable_identifier":null}
 {"canonical_name":"BAIR Lab class of 2026","first_known_at":"2026-09-29T03:19:00.323716+00:00","id":"entity_b9f5a72fb23bca6143bdcd462c11a849","kind":"research workforce cohort","stable_identifier":null}
+{"canonical_name":"中国网信办","first_known_at":"2026-09-29T04:40:17.923717+00:00","id":"entity_bc20687719540c44a839e9eb51da90e6","kind":"government organization","stable_identifier":null}
 {"canonical_name":"fmxcoders","first_known_at":"2026-09-28T22:46:05.181938+00:00","id":"entity_bd781277566a88a9592c5cd9278ae4e2","kind":"machine-learning method","stable_identifier":null}
 {"canonical_name":"CMU agent skills 短课程及后续课程","first_known_at":"2026-09-29T01:52:22.883845+00:00","id":"entity_bff5f4ad2ab94b740c77db97f02d2e75","kind":"course","stable_identifier":null}
 {"canonical_name":"AlphaFold Database viral protein complex dataset","first_known_at":"2026-09-28T14:49:22.836463+00:00","id":"entity_c5f868c90d27c68ad25dd459cd01f78b","kind":"research dataset","stable_identifier":null}
+{"canonical_name":"Authors of “Recursive self-improvement of AI research agents”","first_known_at":"2026-09-29T06:20:47.312256+00:00","id":"entity_cf93300ba3850a333a3689033fc26f4b","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Isomorphic Labs","first_known_at":"2026-09-29T00:31:36.045753+00:00","id":"entity_d7199f74247a6011e5fb051ee8a1ce79","kind":"organization","stable_identifier":null}
 {"canonical_name":"Adaptyv Bio","first_known_at":"2026-09-28T07:37:48.931661+00:00","id":"entity_eed1bc69cedd99d61579bd66541ccac2","kind":"company","stable_identifier":null}
 {"canonical_name":"报告：AI对科学研究经济学的影响","first_known_at":"2026-09-28T07:38:27.034529+00:00","id":"entity_f69b66c379e08a0a40d40782b5fb2c7e","kind":"research_report","stable_identifier":null}

@@ -4,15 +4,20 @@
 {"canonical_name":"Proteinbase","first_known_at":"2026-09-28T21:45:33.293711+00:00","id":"entity_17847f9afe2721c68577753b3c8511c2","kind":"organization","stable_identifier":null}
 {"canonical_name":"弗拉基米尔·费恩伯格（Vladimir Feinberg）","first_known_at":"2026-09-29T02:26:45.595866+00:00","id":"entity_1d2cadf674e79b1db95eff56592e4180","kind":"person","stable_identifier":null}
 {"canonical_name":"transformer factors","first_known_at":"2026-09-28T23:35:56.452212+00:00","id":"entity_252ec82ef24ae2a46136c5dee919c167","kind":"AI representation","stable_identifier":null}
+{"canonical_name":"成均馆大学","first_known_at":"2026-09-29T04:29:27.302253+00:00","id":"entity_285c22e881c6c067a606ec33293072e7","kind":"organization","stable_identifier":null}
+{"canonical_name":"John Dean","first_known_at":"2026-09-29T06:35:13.017059+00:00","id":"entity_2ad1cfb9d197033bce1d9ff80828307c","kind":"executive","stable_identifier":null}
 {"canonical_name":"Atria Dawn Preview","first_known_at":"2026-09-28T17:11:10.014118+00:00","id":"entity_2f69cac5eba2887c18f7dda65a75d677","kind":"AI model","stable_identifier":null}
 {"canonical_name":"AI for Science program","first_known_at":"2026-09-28T20:34:46.221782+00:00","id":"entity_3a9374311512561d5d62e60a441fa821","kind":"research funding program","stable_identifier":null}
+{"canonical_name":"CARE (Corrective Atomic Robotic Execution)","first_known_at":"2026-09-29T04:07:02.00799+00:00","id":"entity_479ab8e4ec840a8ada8cc0100444dfb9","kind":"robotics method","stable_identifier":null}
 {"canonical_name":"ARC Prize Foundation","first_known_at":"2026-09-29T00:10:02.406829+00:00","id":"entity_490b7df95c7233b0f5e0a96982f9d47d","kind":"organization","stable_identifier":null}
+{"canonical_name":"Epoch AI","first_known_at":"2026-09-29T05:33:48.477868+00:00","id":"entity_56cce0c43b940a2ada7e848936990287","kind":"organization","stable_identifier":"https://epoch.ai/"}
 {"canonical_name":"Cross-Layer Attention (CLA)","first_known_at":"2026-09-28T19:56:14.803844+00:00","id":"entity_5aea7d02e9881bc430bccbfb3665846c","kind":"transformer attention architecture","stable_identifier":null}
 {"canonical_name":"Universal Sparse Autoencoders (USAEs)","first_known_at":"2026-09-28T23:31:15.852526+00:00","id":"entity_67e9ead0d41f52a06c6ad00964ce827c","kind":"research method","stable_identifier":null}
 {"canonical_name":"Llama 3.1","first_known_at":"2026-09-28T18:26:23.334532+00:00","id":"entity_67f100f15f7b14981e5cb5b167e18ad5","kind":"AI model family","stable_identifier":null}
 {"canonical_name":"Stanford University","first_known_at":"2026-09-28T17:44:16.79193+00:00","id":"entity_6dff6076e4c2d4bb029dc4b93b5f5e22","kind":"organization","stable_identifier":null}
 {"canonical_name":"Paper2Agent","first_known_at":"2026-09-28T21:16:58.327856+00:00","id":"entity_7c102694a6a74ac85d11641f7b43cf18","kind":"research framework","stable_identifier":null}
 {"canonical_name":"Korea Advanced Institute of Science and Technology (KAIST)","first_known_at":"2026-09-28T17:07:12.829714+00:00","id":"entity_82c401ffc0b01619b0c7b838377094b5","kind":"research institution","stable_identifier":null}
+{"canonical_name":"Nishant Garg","first_known_at":"2026-09-29T04:25:47.955345+00:00","id":"entity_84ac531675932cc6e1fa30e38b6cfc7f","kind":"person","stable_identifier":null}
 {"canonical_name":"Codex using GPT 5.6 Sol Ultra","first_known_at":"2026-09-28T15:49:31.582858+00:00","id":"entity_87bf52cab8ca7d975229311342f53aec","kind":"AI system","stable_identifier":null}
 {"canonical_name":"DeepSeek-V4-Flash","first_known_at":"2026-09-28T07:39:10.718499+00:00","id":"entity_ae1ff6038fa71e5bb0b4b7ec3f7ce7d3","kind":"AI_model","stable_identifier":null}
 {"canonical_name":"ckkissane","first_known_at":"2026-09-28T23:07:32.277268+00:00","id":"entity_b0ceae753c5d1dc224d195721a6f49cb","kind":"researcher","stable_identifier":null}
@@ -25,6 +30,7 @@
 {"canonical_name":"俄罗斯人工智能监管法案","first_known_at":"2026-09-29T03:51:10.000377+00:00","id":"entity_e06aeff5551292e69400a1c9038bd0e8","kind":"policy","stable_identifier":null}
 {"canonical_name":"AI infrastructure expansion and proposed gigawatt-scale factory","first_known_at":"2026-09-28T18:39:06.051065+00:00","id":"entity_e244ded9b5c8f4cb48f483b30f508c55","kind":"AI infrastructure project","stable_identifier":null}
 {"canonical_name":"Moonshot","first_known_at":"2026-09-28T08:00:40.927125+00:00","id":"entity_ebff738166b64a678a15662cad865e33","kind":"organization","stable_identifier":null}
+{"canonical_name":"FAIRChem v2","first_known_at":"2026-09-29T05:34:13.949599+00:00","id":"entity_f1b6a474a49f463b2f8a7ac5c9183442","kind":"scientific software framework","stable_identifier":"https://github.com/facebookresearch/fairchem"}
 {"canonical_name":"AlphaFold Database","first_known_at":"2026-09-28T07:10:21.164617+00:00","id":"entity_f941a447d9a9d6f7af157baee7bbda35","kind":"database","stable_identifier":null}
 {"canonical_name":"Crosscoders note authors","first_known_at":"2026-09-28T07:40:52.345344+00:00","id":"entity_fab45284cf1c69f6a1d499712726ae50","kind":"research_team","stable_identifier":null}
 {"canonical_name":"METR","first_known_at":"2026-09-29T02:53:02.016223+00:00","id":"entity_fb516ebb8714ba923e79b880935eeb88","kind":"organization","stable_identifier":null}

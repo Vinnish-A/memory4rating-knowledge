@@ -1,21 +1,30 @@
 {"canonical_name":"DSpark draft model for LFM2.5-VL-3B","first_known_at":"2026-09-28T10:30:24.82397+00:00","id":"entity_004676ab58d0b068375b6932f996a177","kind":"AI model","stable_identifier":null}
 {"canonical_name":"SAE feature-space similarity across LLMs","first_known_at":"2026-09-28T22:32:59.831755+00:00","id":"entity_0bc8993f5c1d5b3eb9385b3be009cdb4","kind":"research finding","stable_identifier":null}
+{"canonical_name":"Harness-Zero","first_known_at":"2026-09-29T04:03:30.321085+00:00","id":"entity_1c8b8f4262a2c9836c55ef1e06573837","kind":"research method","stable_identifier":null}
 {"canonical_name":"University of Glasgow","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_20a3c3903a06e5d3ba46e984f9690fd1","kind":"organization","stable_identifier":null}
+{"canonical_name":"Government bodies, biosecurity organizations, and research groups","first_known_at":"2026-09-29T04:34:05.869056+00:00","id":"entity_35375e7dc60ad33d15f5c1eea26aa4d0","kind":"partner group","stable_identifier":null}
 {"canonical_name":"EMBL’s European Bioinformatics Institute (EMBL-EBI)","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_3b8ffdc6e4367704150dbe5dbec08cb1","kind":"organization","stable_identifier":null}
 {"canonical_name":"acausal crosscoder","first_known_at":"2026-09-28T07:40:52.345344+00:00","id":"entity_516fce29f7948a7a15c7619dde6ed2ec","kind":"method","stable_identifier":null}
+{"canonical_name":"Seed STEM Scientist Program","first_known_at":"2026-09-29T05:16:23.435866+00:00","id":"entity_662330930dcb9c96917b0254dd467ad6","kind":"scientific research program","stable_identifier":null}
+{"canonical_name":"Life Sciences Verification Program","first_known_at":"2026-09-29T04:13:24.615904+00:00","id":"entity_691a375ba9ca8ef089e73219313fa843","kind":"research access program","stable_identifier":null}
+{"canonical_name":"Discovery Loop","first_known_at":"2026-09-29T06:35:20.207196+00:00","id":"entity_6985cd902c4bedbb29f2e0abc385929b","kind":"organization","stable_identifier":"https://www.discoveryloop.com/"}
 {"canonical_name":"CaP-X","first_known_at":"2026-09-28T17:44:16.79193+00:00","id":"entity_6cc7ee233cdfeee53c6193cfd6613851","kind":"research software framework","stable_identifier":"https://github.com/capgym/cap-x"}
 {"canonical_name":"OpenAI o4-mini","first_known_at":"2026-09-28T18:33:12.312063+00:00","id":"entity_6e8a229d1446cd252c04880a0e20e408","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Schrödinger","first_known_at":"2026-09-28T07:45:50.713586+00:00","id":"entity_74f7b241dfd801a2a5025265b6e5fe7d","kind":"organization","stable_identifier":null}
+{"canonical_name":"Claude Fable 5","first_known_at":"2026-09-29T05:27:49.608171+00:00","id":"entity_8584b863926b82f406c9076d73437e86","kind":"AI model","stable_identifier":null}
 {"canonical_name":"论文作者（本段未具名）","first_known_at":"2026-09-28T15:43:03.00179+00:00","id":"entity_8ef0ad8be114fe2c3052be7bacb9a552","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"SuperC 国际联盟","first_known_at":"2026-09-29T03:40:36.814232+00:00","id":"entity_9237f411375e62d5daecf8529fc39534","kind":"organization","stable_identifier":null}
 {"canonical_name":"American Science and Security Platform","first_known_at":"2026-09-28T17:32:05.072737+00:00","id":"entity_95b44a9b3cf4b9bbe7024fcfac9b2e12","kind":"AI-driven scientific discovery platform","stable_identifier":null}
+{"canonical_name":"OpenAI","first_known_at":"2026-09-29T04:24:42.471191+00:00","id":"entity_9f194c07fd0a344004ec4c89edb714f3","kind":"organization","stable_identifier":"https://openai.com/"}
 {"canonical_name":"Repository author","first_known_at":"2026-09-28T22:56:12.601912+00:00","id":"entity_a8efca709554c4c008c2ab819b784081","kind":"repository author","stable_identifier":null}
 {"canonical_name":"Claude","first_known_at":"2026-09-28T09:25:45.758011+00:00","id":"entity_af032de86bc3a8749ca747e0e6c3769c","kind":"AI model family","stable_identifier":null}
 {"canonical_name":"DR-Venus / DR-Venus-4B","first_known_at":"2026-09-29T00:02:07.480501+00:00","id":"entity_be095529ccf960b31f4bacf91aa8b834","kind":"AI model","stable_identifier":null}
 {"canonical_name":"OpenAI o3","first_known_at":"2026-09-28T18:33:12.312063+00:00","id":"entity_bea785d332dfa927e9e97f05e36ae98d","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Paper Assistant Tool (PAT) and ScholarPeer","first_known_at":"2026-09-28T18:51:01.39905+00:00","id":"entity_bef4ad3103c4ca67ae7018c2ecf5fbee","kind":"scientific review tools","stable_identifier":null}
+{"canonical_name":"ByteDance","first_known_at":"2026-09-29T05:16:23.435866+00:00","id":"entity_c6f96437731b99b7247d7c5ae0af61d9","kind":"organization","stable_identifier":null}
 {"canonical_name":"Caffe2","first_known_at":"2026-09-28T20:49:58.120655+00:00","id":"entity_dcb51b4262a2ffe8edc78e4b957944f0","kind":"research software framework","stable_identifier":null}
 {"canonical_name":"AlphaFold2","first_known_at":"2026-09-28T14:49:22.836463+00:00","id":"entity_e364ac1f63d26e84468c08468b9e2940","kind":"AI model","stable_identifier":null}
+{"canonical_name":"Contrastive Synthetic Document Finetuning (Contrastive SDF)","first_known_at":"2026-09-29T05:06:47.90344+00:00","id":"entity_e6f4aaf587d6396930d2b9d490d7e4df","kind":"research method","stable_identifier":null}
 {"canonical_name":"End-to-end (e2e) sparse dictionary learning","first_known_at":"2026-09-28T23:39:05.882434+00:00","id":"entity_e74b72c8259995fe0541e0361cef9110","kind":"machine-learning method","stable_identifier":null}
 {"canonical_name":"amortized MIPS","first_known_at":"2026-09-29T03:24:29.369915+00:00","id":"entity_ec9c8aabfc07f26d222d75970163cdf7","kind":"research method","stable_identifier":null}
 {"canonical_name":"Sparse crosscoders","first_known_at":"2026-09-28T10:12:52.567204+00:00","id":"entity_ed7ac77f3beb1ad6a657f36189267e2e","kind":"machine-learning method","stable_identifier":null}

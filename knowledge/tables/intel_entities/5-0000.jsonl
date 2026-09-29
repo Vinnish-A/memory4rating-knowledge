@@ -1,15 +1,19 @@
 {"canonical_name":"Broadcom","first_known_at":"2026-09-29T00:18:20.923086+00:00","id":"entity_0af3adb08fcd79af11b3957b0ebf8f0a","kind":"organization","stable_identifier":null}
+{"canonical_name":"Insilico Medicine","first_known_at":"2026-09-29T05:38:52.167599+00:00","id":"entity_174988478ac529ab21ff0263dfa3e66d","kind":"organization","stable_identifier":null}
 {"canonical_name":"AI Campus","first_known_at":"2026-09-28T17:07:12.829714+00:00","id":"entity_20a88ccdf87d2fcf115f93c668df23d2","kind":"research infrastructure","stable_identifier":null}
 {"canonical_name":"Dana Farber Cancer Institute","first_known_at":"2026-09-28T21:43:19.852745+00:00","id":"entity_27ffa684e0a2c3b02c0eda49f302ef69","kind":"organization","stable_identifier":null}
 {"canonical_name":"Advisory Group on Mathematics and Artificial Intelligence","first_known_at":"2026-09-29T01:50:57.221085+00:00","id":"entity_3230ac71f4d6f77c9e3da89425f1a54b","kind":"advisory group","stable_identifier":null}
+{"canonical_name":"Drone-Bench","first_known_at":"2026-09-29T05:27:49.608171+00:00","id":"entity_3274ca322bee921fba6f1d0b1455ef25","kind":"benchmark","stable_identifier":null}
 {"canonical_name":"Paper2Agent paper authors (unnamed in this chunk)","first_known_at":"2026-09-28T21:16:58.327856+00:00","id":"entity_358f7d26a71bd3a2d5babd3f12798313","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Mac Studio with M5 Ultra","first_known_at":"2026-09-29T03:06:04.860691+00:00","id":"entity_3cc3a73f42854cf2e7f57715ba40d302","kind":"AI research infrastructure","stable_identifier":null}
 {"canonical_name":"Cursor","first_known_at":"2026-09-28T08:00:40.927125+00:00","id":"entity_3db51b79e09d25d23430d23de7019f81","kind":"organization","stable_identifier":null}
+{"canonical_name":"Metis","first_known_at":"2026-09-29T06:16:31.8663+00:00","id":"entity_474278a1f4da60b44891e2bf7d8c492a","kind":"AI model","stable_identifier":null}
 {"canonical_name":"InternLM/Intern-Decision","first_known_at":"2026-09-28T21:50:06.664975+00:00","id":"entity_4d62c347acffb48e0a264c66494852df","kind":"research software project","stable_identifier":"https://github.com/InternLM/Intern-Decision"}
 {"canonical_name":"Authors of Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing","first_known_at":"2026-09-28T18:52:14.219045+00:00","id":"entity_539340b63c6a66acbcf0d0957fd3a686","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Apple machine learning research authors","first_known_at":"2026-09-28T17:58:03.936659+00:00","id":"entity_6034a92e836ad903d5683cdf19d72fbd","kind":"researcher_group","stable_identifier":null}
 {"canonical_name":"Adaptyv Biosystems Sarl","first_known_at":"2026-09-28T21:47:35.29227+00:00","id":"entity_662124246db82215ec12806b887e2207","kind":"organization","stable_identifier":null}
 {"canonical_name":"Keivan Alizadeh, Parshin Shojaee, Minsik Cho, Mehrdad Farajtabar","first_known_at":"2026-09-29T03:57:29.762043+00:00","id":"entity_6b05c36829a063a823c189527c94e334","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"Wan-Streamer v0.2","first_known_at":"2026-09-29T04:39:37.133247+00:00","id":"entity_7721bae6eb6d12a510a6b34d9e1abcc6","kind":"AI model","stable_identifier":null}
 {"canonical_name":"LFM2.5-VL-3B","first_known_at":"2026-09-28T10:30:24.82397+00:00","id":"entity_780df97b11949060b180a07230bcdc6a","kind":"vision-language model","stable_identifier":null}
 {"canonical_name":"Quadrel","first_known_at":"2026-09-28T09:09:35.295864+00:00","id":"entity_7d3f86109389f409b1a84867c0dc9954","kind":"organization","stable_identifier":null}
 {"canonical_name":"KeyNet","first_known_at":"2026-09-29T03:24:29.369915+00:00","id":"entity_8c22bbc1fdec6da5ce36a7d190e19b76","kind":"machine-learning model","stable_identifier":null}
@@ -17,8 +21,10 @@
 {"canonical_name":"Genesis Mission","first_known_at":"2026-09-28T17:30:03.672569+00:00","id":"entity_b1bdab75594838c3c8373c8b718e3113","kind":"scientific mission","stable_identifier":null}
 {"canonical_name":"AlphaFold Database viral protein complex structures dataset","first_known_at":"2026-09-28T18:35:28.457563+00:00","id":"entity_c965cd2e6096969075a350efb6d83b43","kind":"dataset","stable_identifier":null}
 {"canonical_name":"莱斯大学埃米莉亚 · 莫罗桑教授","first_known_at":"2026-09-29T03:40:36.814232+00:00","id":"entity_c966b9c6f7ca18fba77d4ea09add0075","kind":"researcher","stable_identifier":null}
+{"canonical_name":"Sundar Pichai","first_known_at":"2026-09-29T06:38:38.356404+00:00","id":"entity_cab8505b6f11856b67ab158a109d40bd","kind":"executive","stable_identifier":null}
 {"canonical_name":"Bayesian Optimization for Concrete (BOxCrete)","first_known_at":"2026-09-28T07:41:24.631236+00:00","id":"entity_cc685878d754e62e2a186a4bf02bb8f2","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Authors of “An AI system to help scientists write expert-level empirical software”","first_known_at":"2026-09-28T22:21:38.765807+00:00","id":"entity_d2e296cf276164b04a2e154d09940491","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Crosscoders authors","first_known_at":"2026-09-28T07:40:52.345344+00:00","id":"entity_d8824be490beaa63da8bebb95047c647","kind":"research_team","stable_identifier":null}
 {"canonical_name":"HoloMotion-1","first_known_at":"2026-09-28T08:01:13.944099+00:00","id":"entity_ee9f0b6dde1e4e7f2dae521a5b012d7e","kind":"AI_model","stable_identifier":"https://huggingface.co/HorizonRobotics/HoloMotion_models"}
+{"canonical_name":"Dyno Therapeutics","first_known_at":"2026-09-29T04:13:24.615904+00:00","id":"entity_f2ef0de8b8a14f00539da36d7351e312","kind":"organization","stable_identifier":null}
 {"canonical_name":"NVIDIA BioNeMo Inference Runtime","first_known_at":"2026-09-28T14:49:22.836463+00:00","id":"entity_faeb72901c6cf24a564d0f3e62a4f631","kind":"AI infrastructure","stable_identifier":null}

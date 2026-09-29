@@ -5,6 +5,7 @@
 {"canonical_name":"Researchers from NVIDIA, NTU and MIT","first_known_at":"2026-09-29T02:24:54.351992+00:00","id":"entity_343ae032abac8c6bb745a242b3f14d32","kind":"research team","stable_identifier":null}
 {"canonical_name":"LLM-based scientific agents","first_known_at":"2026-09-28T07:38:27.090186+00:00","id":"entity_363b50cdd3f20b8c71c85c99e81124fc","kind":"AI_system_category","stable_identifier":null}
 {"canonical_name":"Anthropic, PBC","first_known_at":"2026-09-28T21:47:35.29227+00:00","id":"entity_37454dafe32a21201c9efca276b01940","kind":"organization","stable_identifier":null}
+{"canonical_name":"中国气象局","first_known_at":"2026-09-29T04:37:37.226948+00:00","id":"entity_39b9f63aeaf813ba22597fe956b82017","kind":"organization","stable_identifier":null}
 {"canonical_name":"Researchers from China's Fudan University","first_known_at":"2026-09-28T17:11:10.014118+00:00","id":"entity_42094d2018400cb5507bc03e8d5c6894","kind":"research group","stable_identifier":null}
 {"canonical_name":"Reuters","first_known_at":"2026-09-28T07:37:48.931661+00:00","id":"entity_4b6e32628e3391cc38b513a630ea44df","kind":"news_organization","stable_identifier":null}
 {"canonical_name":"OpenAI","first_known_at":"2026-09-28T18:33:12.312063+00:00","id":"entity_5f705d6e6eed8ab8a9075d5944a1fca4","kind":"organization","stable_identifier":null}
@@ -18,8 +19,10 @@
 {"canonical_name":"Crosscoders","first_known_at":"2026-09-28T10:12:52.567204+00:00","id":"entity_c220041f99174d919f701ff38e5b2a5f","kind":"interpretability method","stable_identifier":null}
 {"canonical_name":"Claude 3 Opus","first_known_at":"2026-09-29T01:47:22.945036+00:00","id":"entity_c4fc50e5224f780513406b89a25b999a","kind":"AI model","stable_identifier":null}
 {"canonical_name":"Stochastic KV Routing paper authors","first_known_at":"2026-09-28T19:03:15.994075+00:00","id":"entity_c76170c2aff618961fc3170676bc5149","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"Core Scientific","first_known_at":"2026-09-29T06:00:26.542674+00:00","id":"entity_d047aa310143807b56260b5ffe63e18e","kind":"organization","stable_identifier":null}
 {"canonical_name":"US government","first_known_at":"2026-09-28T20:34:46.221782+00:00","id":"entity_d9705502b0fe13dd91ec40d31a4bb404","kind":"government","stable_identifier":null}
 {"canonical_name":"基于国产 AI 芯片的遥感目标检测试验单元","first_known_at":"2026-09-28T07:47:12.200305+00:00","id":"entity_db3d572849ae37082337b0b34f228b42","kind":"experiment","stable_identifier":null}
 {"canonical_name":"Axel Backlund","first_known_at":"2026-09-28T10:56:51.933601+00:00","id":"entity_ec558a0ca5244c7c955d0655b3619b61","kind":"person","stable_identifier":null}
 {"canonical_name":"Amrize","first_known_at":"2026-09-28T07:41:24.631236+00:00","id":"entity_ee25e89c4ffaa0a97d02dcfd829100f2","kind":"organization","stable_identifier":null}
 {"canonical_name":"AdaptiveFlow study team","first_known_at":"2026-09-28T21:43:19.852745+00:00","id":"entity_f3caf1a51da257d5688f388516eeadfb","kind":"research team","stable_identifier":null}
+{"canonical_name":"Failure State Recovery Benchmark (FSR-Bench)","first_known_at":"2026-09-29T04:07:02.00799+00:00","id":"entity_f62222485ba50659f8fe5fa585e19344","kind":"benchmark","stable_identifier":null}

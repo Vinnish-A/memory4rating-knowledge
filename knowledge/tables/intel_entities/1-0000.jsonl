@@ -1,19 +1,27 @@
 {"canonical_name":"SoL-Pi","first_known_at":"2026-09-29T02:24:54.351992+00:00","id":"entity_03e190e5eb734e63547737e1533a4f1a","kind":"AI agent extension","stable_identifier":"https://arxiv.org/abs/2609.20519"}
 {"canonical_name":"Cross-Layer Attention (CLA)","first_known_at":"2026-09-28T19:47:58.519773+00:00","id":"entity_07d589828cc7402563f4e02929898636","kind":"attention architecture","stable_identifier":null}
+{"canonical_name":"Authors of “Group Entropy-Controlled Policy Optimization”","first_known_at":"2026-09-29T05:04:54.687231+00:00","id":"entity_084559f4bc709256e8c59017b1df1cc7","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Crosscoders note authors","first_known_at":"2026-09-28T10:12:52.567204+00:00","id":"entity_17e04bffd63d3bc643c4bc287bc07239","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"WeRide WITT","first_known_at":"2026-09-29T04:39:09.970511+00:00","id":"entity_24a4d6c0eb3ff63de72ca0642c958d4c","kind":"AI model","stable_identifier":null}
+{"canonical_name":"TechCrunch","first_known_at":"2026-09-29T04:57:31.565772+00:00","id":"entity_26f02ea5cda2185ace82d3ef420c4cba","kind":"news organization","stable_identifier":"https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"}
 {"canonical_name":"Nonnegative matrix factorization (NMF)","first_known_at":"2026-09-28T10:12:52.567204+00:00","id":"entity_34e2e958dfe6c25751d4a52727e4d401","kind":"statistical method","stable_identifier":null}
+{"canonical_name":"UMA universal machine-learning interatomic potential","first_known_at":"2026-09-29T05:34:13.949599+00:00","id":"entity_3c400b12ba78a51f31191566b860e421","kind":"machine-learning interatomic potential","stable_identifier":null}
 {"canonical_name":"中科曙光","first_known_at":"2026-09-29T02:35:15.795784+00:00","id":"entity_3e4a7addb0ab3563cc739fc9053c0285","kind":"organization","stable_identifier":null}
 {"canonical_name":"dictionary learning for transformer visualization","first_known_at":"2026-09-28T23:35:56.452212+00:00","id":"entity_496f04694aea444268b876d048f0a99a","kind":"research method","stable_identifier":null}
 {"canonical_name":"OpenScience","first_known_at":"2026-09-29T03:39:32.59006+00:00","id":"entity_51c4350285f083af43898fe4096f3dba","kind":"research software","stable_identifier":"https://github.com/synthetic-sciences/openscience"}
 {"canonical_name":"GMO AI & 机器人商事（GMO AIR）","first_known_at":"2026-09-29T02:30:58.836478+00:00","id":"entity_5341f6b66848518e12fc9e430aa411cb","kind":"organization","stable_identifier":null}
+{"canonical_name":"Discovery Loop experimental-loop automation systems","first_known_at":"2026-09-29T06:35:20.207196+00:00","id":"entity_619dcc22d8527a499fafa315393bae18","kind":"AI system","stable_identifier":null}
 {"canonical_name":"Reuters","first_known_at":"2026-09-28T07:41:22.084478+00:00","id":"entity_6763dd8cadbf263ded59631bd5a47b1f","kind":"organization","stable_identifier":null}
+{"canonical_name":"NVAITC","first_known_at":"2026-09-29T05:33:07.108524+00:00","id":"entity_682edee8cb912c0543f9b599b4165fa9","kind":"research infrastructure","stable_identifier":null}
 {"canonical_name":"台积电（TSMC）","first_known_at":"2026-09-29T02:00:01.709758+00:00","id":"entity_68bf0cbc022e51ca622d1f25392132cb","kind":"organization","stable_identifier":null}
 {"canonical_name":"IdeaGene-Bench (IG-Bench)","first_known_at":"2026-09-29T03:59:18.27954+00:00","id":"entity_6acae4330227d761a8a60482d20a9052","kind":"scientific benchmark","stable_identifier":"https://arxiv.org/abs/2607.08758"}
 {"canonical_name":"fmxcoders paper authors","first_known_at":"2026-09-28T22:46:05.181938+00:00","id":"entity_6e7d574c3f9c11b376277cc0e862b761","kind":"researcher group","stable_identifier":null}
 {"canonical_name":"Korea’s Ministry of Science and ICT (MSIT)","first_known_at":"2026-09-28T17:07:12.829714+00:00","id":"entity_7742d7492749016b54c363fd856e1e0f","kind":"government ministry","stable_identifier":null}
 {"canonical_name":"DeepSeek-V4 paper authors","first_known_at":"2026-09-28T21:31:36.497209+00:00","id":"entity_7b6dea416547a92fce2567646a55e717","kind":"researcher group","stable_identifier":null}
+{"canonical_name":"Data Hub","first_known_at":"2026-09-29T05:42:06.281734+00:00","id":"entity_8384a9dbe3a9ee74decece817023fc28","kind":"AI-enabled R&D data infrastructure","stable_identifier":null}
 {"canonical_name":"DeepSeek","first_known_at":"2026-09-28T07:39:10.718499+00:00","id":"entity_8c04fe2c7f21e61e5a2a978e0b66c490","kind":"organization","stable_identifier":null}
 {"canonical_name":"Sequoia Capital","first_known_at":"2026-09-29T00:11:09.100775+00:00","id":"entity_9924e8735104c2948f3146e1c810b5e5","kind":"organization","stable_identifier":null}
+{"canonical_name":"Dana","first_known_at":"2026-09-29T05:40:22.714833+00:00","id":"entity_a28b83b2e7a5b0d780aa8fef0c1b70fd","kind":"software platform","stable_identifier":null}
 {"canonical_name":"AI-designed green concrete mix","first_known_at":"2026-09-28T09:22:10.508326+00:00","id":"entity_a8d4c5918ee10c15242973ddfe88deb1","kind":"construction material","stable_identifier":null}
 {"canonical_name":"Claude Science","first_known_at":"2026-09-29T03:10:30.693994+00:00","id":"entity_acbb574598219665ccc27ba477be59bd","kind":"AI research workspace","stable_identifier":null}
 {"canonical_name":"James Zou","first_known_at":"2026-09-28T07:36:53.043159+00:00","id":"entity_af5c4839cb0f73541eef334944371ba3","kind":"person","stable_identifier":null}
@@ -21,6 +29,7 @@
 {"canonical_name":"SpaceXAI","first_known_at":"2026-09-28T08:00:40.927125+00:00","id":"entity_b46dcaababd48bd4e622db738378f4a4","kind":"organization","stable_identifier":null}
 {"canonical_name":"Luna","first_known_at":"2026-09-28T07:35:18.96786+00:00","id":"entity_c7bf913ba1af83cfd20fddc35cab0816","kind":"AI_agent","stable_identifier":null}
 {"canonical_name":"CaP-Gym","first_known_at":"2026-09-28T17:42:21.38389+00:00","id":"entity_ca98da39fb273b36742d379a29d91d45","kind":"robotics simulation environment","stable_identifier":null}
+{"canonical_name":"OPD-V","first_known_at":"2026-09-29T06:46:09.247163+00:00","id":"entity_cdb49ed5819821b9288a180c78dca670","kind":"research method","stable_identifier":null}
 {"canonical_name":"Meta-developed open-sourced artificial intelligence (AI) models","first_known_at":"2026-09-28T17:29:11.400342+00:00","id":"entity_d1591a66676517e7b03154feffb08a02","kind":"AI models","stable_identifier":null}
 {"canonical_name":"AI-optimized concrete mix","first_known_at":"2026-09-28T17:29:11.400342+00:00","id":"entity_d6fb97b29752c23818b096399bbeb99d","kind":"construction material","stable_identifier":null}
 {"canonical_name":"mathematically sophisticated human researchers","first_known_at":"2026-09-28T20:27:00.587726+00:00","id":"entity_d761f7e088436d09acba9891d40cd537","kind":"professional community","stable_identifier":null}
